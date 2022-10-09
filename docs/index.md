@@ -1,9 +1,10 @@
-## Welcome
+## Do you wanna talk?
 
 ![](../images/perezoso.jpg)
 
 
 Kind of hard to pick one specific topic to fight about, but let's try.
+
 Food Gentrification happens when an affordable and staple ingredient suddenly becomes, in another side of the world, very cool, trendy, costly and then out of reach for poorer communities that depended on that specific ingredient or food. This causes a dispossession of culturally important foods to traditional users.
 Generally speaking, usually this happens when the white middle and upper classes are immersed in alternative food networks and so they impose privileged visions of food access, causing a detriment to minorities and lower income classes.
 In the last ten years North America and Europe have been overwhelmed by a “green wave”, that caused a big and positive change in many fields, bringing people to a new awareness and concern about sustainability. This trend of sustainability helps spreading its values, but has also many downsides (greenwashing is probably the biggest example).
