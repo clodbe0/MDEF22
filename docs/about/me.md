@@ -1,6 +1,7 @@
 # About
 
-![](../images/testa.jpg)
+
+![testa](https://user-images.githubusercontent.com/115195638/194767779-c3ab4a3f-0506-445a-833b-6b09637862c6.jpg)
 
 
 
