@@ -1,6 +1,8 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/testa.jpg)
+
+
 
 Claudia (she/her)
 
