@@ -1,7 +1,21 @@
 # About
 
 ![](../images/perezoso.jpg)
+Claudia (she/her)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+I am passionate about everything related to people: the way we communicate with each other, the way we think, the way we speak, the way we don’t.
+I think design is about finding solutions, solving problems. I believe design needs listening.
+I know that I can only achieve self-accomplishment by exploiting the potential of design to be a driver of change. 
+So let's make a change.
+
+
+I like everything that’s hand made.
+I started several times crocheting but never completed a work.
+Still struggling about it.
+
+I could spend hours on the pottery wheel though. It’s my safe space.
+
+p.s. Today is our lucky day: we met. 
+
+Feel free to check me **[my website](https://community.emergentfutures.io/courses/5566525/content)**
