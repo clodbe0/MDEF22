@@ -1,6 +1,7 @@
 # About
 
 ![](../images/perezoso.jpg)
+
 Claudia (she/her)
 
 
@@ -16,6 +17,6 @@ Still struggling about it.
 
 I could spend hours on the pottery wheel though. It’s my safe space.
 
-p.s. Today is our lucky day: we met. 
+p.s. today is our lucky day: we met. 
 
 Feel free to check me **[my website](https://community.emergentfutures.io/courses/5566525/content)**
