@@ -24,4 +24,4 @@ In my opinion, being more local as possible, when it is possible, is a very good
 My fight starts with me, I wanna educate myself in order to involve and generate interest, and, hopefully, a change.
 
 
-![quinoa](../images/my_fight/quinoa.jpg)
+![](images/my_fight/quinoa.jpg)
