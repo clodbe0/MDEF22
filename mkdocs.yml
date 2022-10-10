@@ -14,11 +14,12 @@ nav:
   - Master project:
       - Initial ideas: project/project.md
   - Reflections :
-      - Temr 1:
+      - Term 1:
           - Bootcamp: temr1/01-Bootcamp.md
           - AoWS: temr1/02-Atlas of Weak Signals.md
+      
 
-      - Temr 2:
+      - Term 2:
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
 
