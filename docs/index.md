@@ -1,6 +1,5 @@
 ## Do you wanna talk?
 
-![](../images/perezoso.jpg)
-
+![](../images/index/groviglio.pdf)
 
 Today is our lucky day: we met.
