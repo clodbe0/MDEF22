@@ -5,4 +5,13 @@ hide:
 
 # Bootcamp
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+First week of master, first attempt to understand myself better.
+I'm understanding that the process of knowing myself can generate a design action.
+Being in control and processing my personal development, the changes I went and I go through and my growth in connection with the environment I live in, can help me to focus on how I see design should be and define my ethic of design.
+I wanna put my personal identity in the context of my visions in order to be fully involved.
+
+
+![](../images/bootcamp/b1.pdf)
+![](../images/bootcamp/b2.pdf)
+![](../images/bootcamp/b3.pdf)
