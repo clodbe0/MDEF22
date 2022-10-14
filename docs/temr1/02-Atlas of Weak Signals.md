@@ -6,7 +6,7 @@ hide:
 # Atlas of Weak Signals
 
 Atlas of weak signals seminar: at the beginning of the week I had no idea what these days would have brought me.  
-During this week I started to navigate topics and areas of opportunity of design that I am interested to. Thanks to the card game and to the dialogue with other people, we explored every possible emerging scenario of any possible emerging future. Or at least this is how it felt to me.
+During this week I started to navigate topics and areas of opportunity of design that I am interested in. Thanks to the card game and to the dialogue with other people, we explored every possible emerging scenario of any possible emerging future. Or at least this is how it felt to me.
 
 But what is a weak signal? It is an emerging trend or topic that has a potential to become huge. And it can speculate any possible future.
 
@@ -14,7 +14,7 @@ We were asked to explore the cards, pick some random ones and then choosing them
 
 Okay, yes. I'm interested in many topic.
 
-We started building our design space, usign the cards, some case studies and our free reasoning. My design space went through many developments and changes. From "how does what we eat affect the world" to "how to visualize Co2" and then "clay and local materials".
+We started building our design space, using the cards, some case studies and our free reasoning. My design space went through many developments and changes. From "how does what we eat affect the world" to "how to visualize Co2" and then "clay and local materials".
 Eventually, what I understood was the connection in between all of these design spaces, is the concept of LOCAL. Eat local, speak local, buy local, learn local. Respect local. Be local. Connect local.
 From the clay that you use to do pottery to the vegetables that you cook for dinner.
 
