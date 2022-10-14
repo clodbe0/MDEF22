@@ -22,4 +22,5 @@ I could spend hours on the pottery wheel though. It’s my safe space.
 
 
 
-Feel free to check me **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+Feel free to check **[my portoflio](scaricabili/portfolio.pdf)**
+href="5contenuti scaricabili/CV.pdf" download>here's my cv
