@@ -24,8 +24,8 @@ To fight ecological crises, to support local producers, to reduce Co2 emissions.
 
 I live very close to el Mercato de la Boqueria and it's shocking to me seeing tourists buying imported dragon fruits, ananas and avocados. Why don't we give more value to local fruits and vegetables? And also to restaurants and shops who offer local commodities?
 
-Also, something disturbing to me living in such a touristic area of Barcelona is the food waste that comes from restaurants and street food shops. Under the new bill passed by the Spanish government, restaurants and bars are obliged to offer free doggy bags to take home leftover food. Honestly, never saw that happening.
-How does Barcelona manage food waste? This is also thinking in local mindset. 
+Also, something disturbing to me living in such a touristic area of Barcelona is the food waste that comes from restaurants and street food shops. Under the new bill passed by the Spanish government, restaurants and bars are soon gonna be obliged to offer free doggy bags to take home leftover food. Honestly, never saw that happening.
+How does Barcelona manage food waste? This is also thinking in local mindset.
 
 I think we should put more attention in the whole process of food: where does it come from, how does it arrive to our home, and how easily it becomes waste.
 
@@ -34,4 +34,4 @@ I think we should put more attention in the whole process of food: where does it
 
 
 
-![](../images/AoWS/designspace.jpg)
+![](../images/AoWS/spaced.jpg)
