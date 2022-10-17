@@ -22,16 +22,18 @@ Why?
 
 To fight ecological crises, to support local producers, to reduce Co2 emissions. To be more in touch with what our land can offer us. To have a deeper experience in a place you go visit cause you truly connect with its native food. To avoid food dispossession in other parts of the world.
 
-I live very close to el Mercato de la Boqueria and it's shocking to me seeing tourists buying imported dragon fruits, ananas and avocados. Why don't we give more value to local fruits and vegetables? And also to restaurants and shops who offer local commodities?
+I live very close to el Mercat de la Boqueria and it's shocking to me seeing tourists buying imported dragon fruits, ananas and avocados. Why don't we give more value to local fruits and vegetables? And also to restaurants and shops who offer local commodities?
 
 Also, something disturbing to me living in such a touristic area of Barcelona is the food waste that comes from restaurants and street food shops. Under the new bill passed by the Spanish government, restaurants and bars are soon gonna be obliged to offer free doggy bags to take home leftover food. Honestly, never saw that happening.
 How does Barcelona manage food waste? This is also thinking in local mindset.
 
 I think we should put more attention in the whole process of food: where does it come from, how does it arrive to our home, and how easily it becomes waste.
 
+I wrote down some experiments and tasks that I will try in the following days, that consider all of the three branches that I developed, in order to involve myself better in the process, to understand better and to keep developing.
 
 
 
 
 
-![](../images/AoWS/spaced.jpg)
+
+![](../images/AoWS/miro.jpg)
