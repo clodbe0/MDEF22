@@ -1,3 +1,6 @@
+hide:
+    - toc
+---
 
 # Research through Design
 
@@ -20,10 +23,8 @@ Vehicle for inquiry: it is not the prototype itself, but the process who generat
 
 During my short experience as a designer, I got in touch with some of these roles of prototyping. I feel that the **Role 1** happened many times when we had to test out any kind of experimental trials like texture, the material itself or colors. Once we had to develop a game made out of recycled materials and after experimenting with a wide range of options we ended up using cardboard to create a book for children, in order to create different texture.
 Another example that comes to my mind is about the **Research archetype**. I worked for a couple of years in a ceramic studio and the studio itself was kind of a showroom. It was full of everyday-use ceramics and people could assembly them choosing any possible way they wanted to. This process became many times an inspiration for us, cause we saw assemblings that we just never thought about and that become new ideas for new projects.
-
-
-
-
+The role of prototyping that attracts me the most, and that I had the chance to explore the most is the ++Vehicle for inquiry**. For my thesis project I decided to do a pilgrimage in the Centre of Italy called “Cammino nelle Terre Mutate”. 257 km through the villages of Centre of Italy that experienced 2009 and 2016 earthquakes, walking, observing and interacting in order to find out the necessities and needs of both communities and territory, and try to satisfy them.
+the whole project happened just thanks to being involved in first person in the process and to the involvement of the local people that I met on the way and their experience. By exploring together their needs and the needs of the environment, the project shaped itself.
 
 # "A shift from designing for to co-designing with" Agger Eriksen 2012.
-From this article written by Anna Servalli I found enlightning the concept of *"togetherness that becomes a core aspect of the design process as a way to foster collaboration after the design phase"*
+From this article written by Anna Servalli I found enlightening the concept of *"togetherness that becomes a core aspect of the design process as a way to foster collaboration after the design phase"*
