@@ -29,3 +29,5 @@ the whole project happened just thanks to being involved in first person in the 
 
 # "A shift from designing for to co-designing with" Agger Eriksen 2012.
 From this article written by Anna Servalli I found enlightening the concept of *"togetherness that becomes a core aspect of the design process as a way to foster collaboration after the design phase"*
+
+I think that the combination between the second, a role of prototyping that I've never used so it would be self challenging to try out, and the forth role would be interests to understand my position and possibilities. I'm interested to understand the food waste and food gentrification phenomena better, and see honest reactions of my development. Also, getting people involved in the project represents very powerful way of doing design for me, and also an exercise of openness and listening processess. 
