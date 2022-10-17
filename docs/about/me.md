@@ -22,4 +22,4 @@ I could spend hours on the pottery wheel though. It’s my safe space.
 
 
 
-Feel free to check **[my portoflio](href="docs/scaricabili/portfolio.pdf")**
+Feel free to check **[my portoflio](docs/scaricabili/portfolio.pdf")**
