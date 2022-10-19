@@ -30,4 +30,19 @@ The whole project happened just thanks to being involved in first person in the 
 # "A shift from designing for to co-designing with" Agger Eriksen 2012.
 From this article written by Anna Servalli I found enlightening the concept of *"togetherness that becomes a core aspect of the design process as a way to foster collaboration after the design phase"*
 
-I think that the combination between the second (a role of prototyping that I've never used so it would be self challenging to try out) and the fourth role would be interesting to understand my position and possibilities. I'm interested to understand the food waste and food gentrification phenomena better, I still don't know which way I'm going that's why I believe that see honest reactions along the way could help my development. Also, getting people involved in the project represents a very powerful way of doing design for me, and also an exercise of openness and listening processes. 
+I think that the combination between the second (a role of prototyping that I've never used so it would be self challenging to try out) and the fourth role would be interesting to understand my position and possibilities. I'm interested to understand the **food waste** , **local food accessibility** and **food gentrification** phenomena better, and most of all the possibility to **visualize Co2** emission related to food. I still don't know which way I'm going that's why I believe that see honest reactions along the way could help my development. Also, getting people involved in the project represents a very powerful way of doing design for me, and also an exercise of openness and listening processes.
+
+To start my research, I asked myself 4 questions:
+
+*where does the food that we eat come from?*
+*how does the city of Barcelona manages food waste?*
+*how much Co2 does the food that we eat cause?*
+*how does Co2 look like?*
+
+
+I wanna involve myself in the first place. In the following days I'm gonna do 4 experiments.
+
+1. try to eat just local food for one day
+2. what happens if I ask for a doggy bag to bring home my leftovers?
+3. try to see if restaurants, market and shops with local food are easy to spot
+4. weight how much Co2 comes from I eat
