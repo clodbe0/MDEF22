@@ -34,15 +34,18 @@ I think that the combination between the second (a role of prototyping that I've
 
 To start my research, I asked myself 4 questions:
 
-*where does the food that we eat come from?*
-*how does the city of Barcelona manages food waste?*
-*how much Co2 does the food that we eat cause?*
-*how does Co2 look like?*
+*Where does the food that we eat come from?*
+
+*How does the city of Barcelona manages food waste?*
+
+*How much Co2 does the food that we eat cause?*
+
+*How does Co2 look like?*
 
 
 I wanna involve myself in the first place. In the following days I'm gonna do 4 experiments.
 
-1. try to eat just local food for one day
-2. what happens if I ask for a doggy bag to bring home my leftovers?
-3. try to see if restaurants, market and shops with local food are easy to spot
-4. weight how much Co2 comes from I eat
+1. Try to eat just local food for one day
+2. What happens if I ask for a doggy bag to bring home my leftovers?
+3. Try to see if restaurants, market and shops with local food are easy to spot
+4. Weight how much Co2 comes from I eat
