@@ -17,6 +17,8 @@ I wanna put my personal identity in the context of my visions in order to be ful
 
 
 
+
+
 # Research through Design and Prototype
 
 
@@ -62,6 +64,8 @@ I wanna involve myself in the first place. In the following days I'm gonna do 4 
 2. What happens if I ask for a doggy bag to bring home my leftovers?
 3. Try to see if restaurants, market and shops with local food are easy to spot
 4. Weight how much Co2 comes from I eat
+
+
 
 
 
