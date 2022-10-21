@@ -71,4 +71,4 @@ I wanna involve myself in the first place. In the following days I'm gonna do 4 
 
 # Work Space
 
-![](../images/studio/space.jpg)
+![](../images/studio/space2.pdf)
