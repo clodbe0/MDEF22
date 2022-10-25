@@ -43,7 +43,8 @@ Another example that comes to my mind is about the **Research archetype**. I wor
 The role of prototyping that attracts me the most, and that I had the chance to explore the most, is the **Vehicle for inquiry**. For my thesis project I decided to do a pilgrimage in the Centre of Italy on a hike called “Cammino nelle Terre Mutate”. 257 km through the villages of Centre of Italy that experienced 2009 and 2016 earthquakes, walking, observing and interacting with local people and environment, in order to find out the necessities and needs of both communities and territory, and try to satisfy them.
 The whole project happened just thanks to being involved in first person in the process and to the involvement of the local people that I met on the way and their experience. By exploring together their needs and the needs of the environment, the project shaped itself.
 
-# "A shift from designing for to co-designing with" Agger Eriksen 2012.
+"*A shift from designing for to co-designing with.*" Agger Eriksen 2012.
+
 From this article written by Anna Servalli I found enlightening the concept of *"togetherness that becomes a core aspect of the design process as a way to foster collaboration after the design phase"*
 
 I think that the combination between the second (a role of prototyping that I've never used so it would be self challenging to try out) and the fourth role would be interesting to understand my position and possibilities. I'm interested to understand the **food waste** , **local food accessibility** and **food gentrification** phenomena better, and most of all the possibility to **visualize Co2** emission related to food. I still don't know which way I'm going that's why I believe that see honest reactions along the way could help my development. Also, getting people involved in the project represents a very powerful way of doing design for me, and also an exercise of openness and listening processes.
