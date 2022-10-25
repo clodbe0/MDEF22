@@ -12,4 +12,4 @@ Carbon Chain
 
 
 
-![](../images/MT01/scorpio_blow.jpg)
+![](../images/bio/cook.JPG)
