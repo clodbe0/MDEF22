@@ -35,6 +35,10 @@
 .md-typeset h2 {
     font-weight: 500;
 }
+.md-typeset h1 {
+    color: #9842f5;
+}
+
 
 .mdc-typography--body2 {
     font-weight: 300;

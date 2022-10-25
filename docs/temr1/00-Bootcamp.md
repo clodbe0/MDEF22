@@ -3,8 +3,12 @@ hide:
     - toc
 ---
 
-# My fight
 
+
+#My fight
+
+
+<FONT COLOR=black>
 Food Gentrification happens when an affordable and staple ingredient suddenly becomes, in another side of the world, very cool, trendy, costly and then out of reach for poorer communities that depended on that specific ingredient or food. This causes a dispossession of culturally important foods to traditional users.
 Generally speaking, usually this happens when the white middle and upper classes are immersed in alternative food networks and so they impose privileged visions of food access, causing a detriment to minorities and lower income classes.
 
@@ -22,6 +26,7 @@ My personal fight is to become more aware in the way I eat, try to be more criti
 In my opinion, being more local as possible, when it is possible, is a very good way to fight extreme globalized and gentrified food. We have to learn more where food comes from, what consequences does it have, and also acquire a knowledge about what does the ground where we live can provide to us. We should count on proximity life, buy in local shops and small scale producers, also to support them.
 
 My fight starts with me, I wanna educate myself in order to involve and generate interest, and, hopefully, a change.
+<FONT COLOR=black>
 
 
 ![](../images/myfight/quinoa.jpg)

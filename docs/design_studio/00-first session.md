@@ -1,7 +1,7 @@
 
-<FONT COLOR=#9842f5>
-Personal Development
-<FONT COLOR=#9842f5>
+
+#Personal Development
+
 
 <FONT COLOR=black>
 First week of master, first attempt to understand myself better.
@@ -18,9 +18,9 @@ I wanna put my personal identity in the context of my visions in order to be ful
 
 
 
-<FONT COLOR=#9842f5>
-Research through Design and Prototype
-<FONT COLOR=#9842f5>
+
+#Research through Design and Prototype
+
 
 <FONT COLOR=black>
 To generate knowledge, to combine knowledge from different disciplines, to abstract future thinking with everyday practice, to use all the skills that I could have as a designer.
@@ -70,8 +70,8 @@ I wanna involve myself in the first place. In the following days I'm gonna do 4 
 
 
 
-<FONT COLOR=#9842f5>
-Work Space
-<FONT COLOR=#9842f5>
+
+#Work Space
+
 
 ![](../images/studio/space2.pdf)
