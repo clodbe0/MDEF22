@@ -1,7 +1,5 @@
----
-hide:
-    - toc
----<FONT COLOR=#9842f5>
+
+<FONT COLOR=#9842f5>
 # Personal Development
 <FONT COLOR=#9842f5>
 
@@ -20,8 +18,9 @@ I wanna put my personal identity in the context of my visions in order to be ful
 
 
 
-
+<FONT COLOR=#9842f5
 # Research through Design and Prototype
+<FONT COLOR=#9842f5>
 
 
 To generate knowledge, to combine knowledge from different disciplines, to abstract future thinking with everyday practice, to use all the skills that I could have as a designer.
