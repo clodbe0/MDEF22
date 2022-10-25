@@ -3,8 +3,12 @@ hide:
     - toc
 ---
 
-# Atlas of Weak Signals
 
+<FONT COLOR=#9842f5>
+Atlas of Weak Signals
+<FONT COLOR=#9842f5>
+
+<FONT COLOR=black>
 Atlas of weak signals seminar: at the beginning of the week I had no idea what these days would have brought me.  
 During this week I started to navigate topics and areas of opportunity of design that I am interested in. Thanks to the card game and to the dialogue with other people, we explored every possible emerging scenario of any possible emerging future. Or at least this is how it felt to me.
 
@@ -31,7 +35,7 @@ I think we should put more attention in the whole process of food: where does it
 
 I wrote down some experiments and tasks that I will try in the following days, that consider all of the three branches that I developed, in order to involve myself better in the process, to understand better and to keep developing.
 
-
+<FONT COLOR=black>
 
 
 

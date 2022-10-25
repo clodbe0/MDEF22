@@ -18,7 +18,7 @@ I wanna put my personal identity in the context of my visions in order to be ful
 
 
 
-<FONT COLOR=#9842f5
+<FONT COLOR=#9842f5>
 Research through Design and Prototype
 <FONT COLOR=#9842f5>
 
