@@ -1,6 +1,6 @@
 
 <FONT COLOR=#9842f5>
-# Personal Development
+Personal Development
 <FONT COLOR=#9842f5>
 
 <FONT COLOR=black>
@@ -19,10 +19,10 @@ I wanna put my personal identity in the context of my visions in order to be ful
 
 
 <FONT COLOR=#9842f5
-# Research through Design and Prototype
+Research through Design and Prototype
 <FONT COLOR=#9842f5>
 
-
+<FONT COLOR=black>
 To generate knowledge, to combine knowledge from different disciplines, to abstract future thinking with everyday practice, to use all the skills that I could have as a designer.
 
 **Role 1.**
@@ -65,11 +65,13 @@ I wanna involve myself in the first place. In the following days I'm gonna do 4 
 2. What happens if I ask for a doggy bag to bring home my leftovers?
 3. Try to see if restaurants, market and shops with local food are easy to spot
 4. Weight how much Co2 comes from I eat
+<FONT COLOR=black>
 
 
 
 
-
-# Work Space
+<FONT COLOR=#9842f5>
+Work Space
+<FONT COLOR=#9842f5>
 
 ![](../images/studio/space2.pdf)
