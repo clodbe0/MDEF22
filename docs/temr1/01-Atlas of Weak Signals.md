@@ -4,9 +4,9 @@ hide:
 ---
 
 
-<FONT COLOR=#9842f5>
-Atlas of Weak Signals
-<FONT COLOR=#9842f5>
+
+#Atlas of Weak Signals
+
 
 <FONT COLOR=black>
 Atlas of weak signals seminar: at the beginning of the week I had no idea what these days would have brought me.  
