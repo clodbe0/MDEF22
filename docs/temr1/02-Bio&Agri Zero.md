@@ -15,14 +15,14 @@ During the two weeks, it felt good to learn science and chemistry in an active a
 
 
 
-#Bees get stressed
-And why bees get stressed? And does stress affect colony collapse disorder?
+#Honeybees get stressed
+Why honeybees get stressed? And does stress affect colony collapse disorder?
 
 
 
 Stress: noun - a state of mental or emotional strain or tension resulting from adverse or demanding circumstance // great worry caused by a difficult situation, or something that causes this condition // physiological concept that allows organisms to respond to adverse environmental pressures.
 
-And yes, not just humans and other mammals can feel stressed, but also bees.
+And yes, not just humans and other mammals can feel stressed, but also honeybees.
 
 The articles that I want to discuss claims that *Bees get stressed at work too and it might be causing colony collapse*, (published in June 2018 by The Conversation).
 
@@ -36,7 +36,7 @@ The emotional life of animals, insects and specifically bees has been studied fo
 
 Some recent studies by Geraldine Wright at Newcastle University in the UK have showed that honeybees may experience something akin to moods. They proved that bees show a state of negative affect triggered by agitation, *"associated with system-wide changes in neurotransmitters and causes clear, measurable cognitive biases"*.
 
-**But what does cause stress to bees?**
+**But what does cause stress to honeybees?**
 Stress in bees has been studied throughout the reaction of multiple aspects as behavioral, physiological or cellular stress responses. And, as it happens to human, stressors affect the immune system, causing ripple effect. Here are some causes of stress in bees.
 
 The shape of the hive can be a cause: Open Source Beehives designed a hive that encourages happiness for health bees, by reducing the stress. The shape of common hives aim to maximize the honey production. This one instead allow bees to build their combs in more natural curving shapes.
