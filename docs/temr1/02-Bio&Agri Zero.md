@@ -16,18 +16,22 @@ During the two weeks, it felt good to learn science and chemistry in an active a
 
 
 #Honey bees get stressed
-Why honey bees get stressed? And what are the consequences?
+**Why honey bees get stressed? And what are the consequences?**
 
 
 
 
-Stress: noun - a state of mental or emotional strain or tension resulting from adverse or demanding circumstance // great worry caused by a difficult situation, or something that causes this condition // physiological concept that allows organisms to respond to adverse environmental pressures.
+**Stress**: noun
+
+// A state of mental or emotional strain or tension resulting from adverse or demanding circumstance.
+// Great worry caused by a difficult situation, or something that causes this condition.
+// Physiological concept that allows organisms to respond to adverse environmental pressures.
 
 And yes, not just humans and other mammals can feel stressed, but also honey bees.
 
-The articles that I want to discuss claims that *Bees get stressed at work too and it might be causing colony collapse*, (published in June 2018 by The Conversation).
+The articles that I want to discuss claims that **[Bees get stressed at work too and it might be causing colony collapse](https://theconversation.com/bees-get-stressed-at-work-too-and-it-might-be-causing-colony-collapse-96412)**, (published in June 2018 by The Conversation).
 
-https://theconversation.com/bees-get-stressed-at-work-too-and-it-might-be-causing-colony-collapse-96412
+
 
 
 
@@ -38,6 +42,7 @@ The emotional life of animals, insects and specifically bees has been studied fo
 Some recent studies by Geraldine Wright at Newcastle University in the UK have showed that honeybees may experience something akin to moods. They proved that bees show a state of negative affect triggered by agitation, *"associated with system-wide changes in neurotransmitters and causes clear, measurable cognitive biases"*.
 
 **But what does cause stress to honey bees?**
+
 Stress in bees has been studied throughout the reaction of multiple aspects as behavioral, physiological or cellular stress responses. And, as it happens to human, stressors affect the immune system, causing ripple effect. Here are some causes of stress in honey bees.
 
 The shape of the hive can be a cause: Open Source Beehives designed a hive that encourages happiness for health bees, by reducing the stress. The shape of common hives aim to maximize the honey production. This one instead allow bees to build their combs in more natural curving shapes.
@@ -62,7 +67,7 @@ This phenomenon happen when the working bees disappear and leave the queen and s
 The Colony Collapse Disorder in a very complex syndrome with many causes, but stress is one of them.
 The stressors that are causing an increase in honey bee colony failure rates are multiples: diseases, parasites, pesticides and poor nutrition for instance. But we don’t have just direct threats that are causing this issue, but also the so called “sublethal stressors” which don’t directly kill bees, but harm them or make them change behavior. In other words: fumes and pesticides disturb chemical communication in honey bees’s brains.
 This means just one thing: empty hives.
-Other reasons are related to the CCD as poor nutrition, pathogens, parasites and pests and many actions are being taken into consideration in order to protect honey bees and pollinators (wild bees too are in danger and very important for the environment.) The best thing that the public can take is not to use pesticides randomly and help them out by planting pollinator friendly plants as foxglove, bee balm, red clover and other plants! 
+Other reasons are related to the CCD as poor nutrition, pathogens, parasites and pests and many actions are being taken into consideration in order to protect honey bees and pollinators (wild bees too are in danger and very important for the environment.) The best thing that the public can take is not to use pesticides randomly and help them out by planting pollinator friendly plants as foxglove, bee balm, red clover and other plants!
 
 **SITOGRAPHY**
 
