@@ -10,15 +10,15 @@ During the two weeks, it felt good to learn science and chemistry in an active a
 
 We had the chance to practice the theory throughout five experiments:
 
-**1** In a sterile environment we prepared a media for **microorganism** to grow in, and then we actually collected the microorganism (our imagination went to the point of collecting blood...)
+**1.** In a sterile environment we prepared a media for **microorganism** to grow in, and then we actually collected the microorganism (our imagination went to the point of collecting blood...)
 
-**2** We cooked **bioplastics**! Agar agar as a carbon chain, glycerol as the alcohol group and hydrogen + the aesthetic addition of apple peel to make our mold nicer
+**2.** We cooked **bioplastics**! Agar agar as a carbon chain, glycerol as the alcohol group and hydrogen + the aesthetic addition of apple peel to make our mold nicer
 
-**3** Look closer: with the **microscopy** we had the chance to really look deep in details. (The devil really is in the details huh!).
+**3.** Look closer: with the **microscopy** we had the chance to really look deep in details. (The devil really is in the details huh!).
 
-**4** **Ph paper**: during many years of babysitting I kind of did this experiment, by making a red cabbage soup for children and then adding lemon to have a magical effect... We tried to reproduce to function of PH paper buy pouring red cabbage extract on paper, and then dropping different level of base or acid liquids to see the reaction. The experiment actually ended in a art class.
+**4.** **Ph paper**: during many years of babysitting I kind of did this experiment, by making a red cabbage soup for children and then adding lemon to have a magical effect... We tried to reproduce to function of PH paper buy pouring red cabbage extract on paper, and then dropping different level of base or acid liquids to see the reaction. The experiment actually ended in a art class.
 
-**5** **Spirulina** and **Kombucha**: My face says it all.. hated the taste, loved the process of how to grow Spirulina at home! And about Kombucha, it is growing on me that much that I will start my small production at home!
+**5.** **Spirulina** and **Kombucha**: My face says it all.. hated the taste, loved the process of how to grow Spirulina at home! And about Kombucha, it is growing on me that much that I will start my small production at home!
 ![](../images/bio/io.jpg)
 
 
