@@ -6,10 +6,27 @@ hide:
 # Bio & Agri Zero
 
 
-A picture that represents my journey with Nuria and Jordi through Bio and Agri Zero weeks.
-That day we were making bio plastic (which are not the solution okay?) but after some hours of listening to bio plastic theory, using our hands, brains and recipes to actually make some felt incredible.
+During the two weeks, it felt good to learn science and chemistry in an active and creative way. Our mdef class became a small but very effective lab, guided by Nuria and Jordi.
 
-During the two weeks, it felt good to learn science and chemistry in an active and creative way.
+We had the chance to practice the theory throughout five experiments:
+
+**1** In a sterile environment we prepared a media for **microorganism** to grow in, and then we actually collected the microorganism (our imagination went to the point of collecting blood...)
+
+**2** We cooked **bioplastics**! Agar agar as a carbon chain, glycerol as the alcohol group and hydrogen + the aesthetic addition of apple peel to make our mold nicer
+
+**3** Look closer: with the **microscopy** we had the chance to really look deep in details. (The devil really is in the details huh!).
+
+**4** **Ph paper**: during many years of babysitting I kind of did this experiment, by making a red cabbage soup for children and then adding lemon to have a magical effect... We tried to reproduce to function of PH paper buy pouring red cabbage extract on paper, and then dropping different level of base or acid liquids to see the reaction. The experiment actually ended in a art class.
+
+**5** **Spirulina** and **Kombucha**: My face says it all.. hated the taste, loved the process of how to grow Spirulina at home! And about Kombucha, it is growing on me that much that I will start my small production at home!
+![](../images/bio/io.jpg)
+
+
+
+The picture that I chose represents my favorite experiment: that day we were making bio plastic (which are not the solution okay?) but after some hours of listening the theory, using our hands, brains and recipes to actually cook some felt incredible.
+
+
+
 
 ![](../images/bio/cook.JPG)
 
@@ -76,6 +93,10 @@ This means just one thing: empty hives.
 Other reasons are related to the CCD as poor nutrition, pathogens, parasites and pests and many actions are being taken into consideration in order to protect honey bees and pollinators (wild bees too are in danger and very important for the environment.)
 
 The best thing that the public can take is not to use pesticides randomly and help them out by planting pollinator friendly plants as foxglove, bee balm, red clover and other plants!
+
+
+
+P.S. Thank you so much Nuria, Jordi and Jonatan for introducing me to science and experiments in a very funny and participative way.
 
 **SITOGRAPHY**
 
