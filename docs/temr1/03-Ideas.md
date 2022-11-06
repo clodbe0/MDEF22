@@ -41,12 +41,21 @@ What they offered me:
 Especially in fruterias they offered me way more food, but I knew I could not eat it all so I picked a little. For instance they offered me two huge boxes of zucchini, a whole box full of tomatoes and carrot. Also, they told me to come back the morning after to collect more.
 
 What I collected:
-One pain au chocolat, Two boccadillos with jamon, three zucchini, seven bananas, one pear, eight carrots, one croissant with ham and cheese.
+One pain au chocolat, two boccadillos with jamon, three zucchini, seven bananas, one pear, eight carrots, one croissant with ham and cheese.
 
 What I ate:
+
 - breakfast: pan au chocolat
+
 - lunch: croissant with ham and cheese, zucchini and banana
+
 - snack: a pear, and I baked a banana bread
+
 - dinner: zucchini and boccadillo with jamon
 
+
 I managed to eat more than enough and very healthy. Didn't expect it at all.
+
+**Some reflection**
+
+I think that when you start to involve yourself in the process you actually understand the process better. Most of all, you understand most of its potentials and limits and all of the strings attached. You actually live in first person an experience and you free yourself to the initial plan idea, in order to be more open to any kind of change, because the process itself is bringing you to that. Using myself as a tool allowed be to build memories, feelings and stronger opinions about the topic that I want to explore, it allowed me to be an "inside player" instead of an "outsider planner". It opened myself up to different paths and gave me many more inspirations. I understood that anytime that I feel stuck I just have to *go* and *do*, to *listen* and to *be*. There's no other way to design for people.
