@@ -34,7 +34,8 @@ She truly helped with time and boredom management, she motivated me and kept me 
 
 How can I take action on my concept in a brave way? How can I immerse myself into the topic of wasted food? I should feel an experience.
 
-This is what I'm gonna do: for 24 hours I will just eat food that's supposed to be thrown away by groceries, bakeries, bars... My area of acting is Raval, the neighborhood where I leave.
+This is what I'm gonna do: for 24 hours I will just eat food that's supposed to be thrown away by groceries, bakeries, bars...
+My area of acting is Raval, the neighborhood where I live.
 
 
 What they offered me:
@@ -54,7 +55,10 @@ What I ate:
 - dinner: zucchini and boccadillo with jamon
 
 
-I managed to eat more than enough and very healthy. Didn't expect it at all.
+I managed to eat more than enough, very healthy and very good too.
+Didn't expect it at all.
+
+During the experiment I decided to avoid places that do Too Good To Go and also big chains of bakeries and supermarkets. I focused more on local groceries so that I could get in touch directly to owners.
 
 **Some reflection**
 
