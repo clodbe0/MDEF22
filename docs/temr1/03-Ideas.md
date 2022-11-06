@@ -15,7 +15,7 @@ During this week we keep experiment the FIRST PERSON PERCEPTIVE as a way to invo
 During today's class Kristina Anderson gave us the task to build in 10 minutes a companion with wasted material that we brought from home. This companion is supposed to satisfy a desire: CURIOSITY, the need to gain knowledge.
 
 I built Nadir. Here she is.
-![](../images/Ideas/nadir.jpg)
+![](../../images/Ideas/nadir.jpg)
 
 Nadir and I are gonna live together pretty easily. I will wear her when I’m awake and active, and when I’m not she still will be, producing light, and will stay next to my bed.
 She’s my companion and her aim in life is to bring curiosity and help me out to gain knowledge. Basically she’s a boredom clock for me: until her light runs, I will try to achieve the most I can from my everyday life, she’s there to remind me not to procrastinate, to explore, to experience also when I feel that I’m stuck in my routine. Also, I will constantly have to check if her light is still on so I will always have an eye on her. That’s our pact: I’ll take care of her and in exchange she will be a life curiosity reminder for me.
