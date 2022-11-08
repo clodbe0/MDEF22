@@ -30,16 +30,22 @@ She truly helped with time and boredom management, she motivated me and kept me 
 
 
 
+
+
 **24 HOURS**
 
-How can I take action on my concept in a brave way? How can I immerse myself into the topic of wasted food? I should feel an experience.
+How can I take action on my concept in a brave way? How can I immerse myself into the topic of wasted food? I should feel an experience. I should live the topic from the inside and explore it in a first person perceptive.
+The food waste problem has many facets and can be faced up to in different ways. My brain started running ideas of how I could get more involved in the problem but eventually I ended up with a decision and that's what I'm gonna do:
 
-This is what I'm gonna do: for 24 hours I will just eat food that's supposed to be thrown away by groceries, bakeries, bars...
-My area of acting is Raval, the neighborhood where I live.
+My area of acting is Raval, the neighborhood where I live. I noticed that in Raval, being neighboring La Rambla has many food accesses and options. Not just restaurants and food chains for tourists but also groceries for local people.
+For 24 hours I will just eat food that's supposed to be thrown away by groceries, bakeries, bars... I will go around and just ask if they have some food (any kind) that they would toss at the end of the day.
 
 
 What they offered me:
-Especially in fruterias they offered me way more food, but I knew I could not eat it all so I picked a little. For instance they offered me two huge boxes of zucchini, a whole box full of tomatoes and carrot. Also, they told me to come back the morning after to collect more.
+Especially in fruterias they offered me way more food that I needed, but I knew I could not eat it all so I picked a little. For instance they offered me two huge boxes of zucchini, a whole box full of tomatoes and carrots. Also, they told me to come back the morning after to collect more.
+Some places like bars and cafè told me that they do Too Good To Go (which is a great way to save wasted food) and so I made the decision not to get food from them. I decided also to avoid big chains like supermarkets of cafè because they couldn't give me any explanation on where the wasted food would go (that's because the people I talked to were employees and not responsible for the shop).
+I focused more on local groceries so that I could get in touch directly to owners.
+
 
 What I collected:
 One pain au chocolat, two boccadillos with jamon, three zucchini, seven bananas, one pear, eight carrots, one croissant with ham and cheese.
@@ -58,7 +64,6 @@ What I ate:
 I managed to eat more than enough, very healthy and very good too.
 Didn't expect it at all.
 
-During the experiment I decided to avoid places that do Too Good To Go and also big chains of bakeries and supermarkets. I focused more on local groceries so that I could get in touch directly to owners.
 
 **Some reflection**
 
