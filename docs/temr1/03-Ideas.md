@@ -41,6 +41,9 @@ My area of acting is Raval, the neighborhood where I live. I noticed that in Rav
 For 24 hours I will just eat food that's supposed to be thrown away by groceries, bakeries, bars... I will go around and just ask if they have some food (any kind) that they would toss at the end of the day.
 
 *How did it go?*
+See the video **[here](https://vimeo.com/770430712)**
+
+
 
 What they offered me:
 Especially in fruterias they offered me way more food that I needed, but I knew I could not eat it all so I picked a little. For instance they offered me two huge boxes of zucchini, a whole box full of tomatoes and carrots. Also, they told me to come back the morning after to collect more.
