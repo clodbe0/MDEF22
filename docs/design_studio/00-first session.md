@@ -76,3 +76,34 @@ I wanna involve myself in the first place. In the following days I'm gonna do 4 
 
 
 ![](../images/studio/space2.pdf)
+
+
+
+
+
+#Communication Strategies
+
+*Understand my audience*
+
+*Being transparent about my intentions, offering a space where people I'm trying to reach and connect can understand better my background, my values, my commitment, my motives, my positionality – creating a foundation for trust*
+
+*Sharing participants’ observations, reflections and experiences during and after my interventions*
+
+I truly believe in participation in order to make an effective design for people. Coexistence between the designer and its audience, the ability of listening and the willing to change ideas and processes are key points to me.
+I'm seeking a open process co-design and participatory design attitude.
+
+
+#Communication Medium
+
+*A printed newspaper/magazine to reach the local community.*
+
+*Present or do a workshop at a conference.*
+
+*Writing*
+
+*Photographing*
+
+
+
+Lately I've been experiencing a strong detachment from social media and digital communication methods. I've been using digital tools in the past with the aim to create strong communities and to reach most people possible. But since I live in Barcelona, I've had the chance to explore another form of strong sense of community life, which is the one that each neighborhood builds sharing local places and doing social activities together. I'm more willing to be physically in touch with people, because I would like to use all of my senses and also I want people to experience a design intervention with all of the five senses.
+This doesn't mean that I'm NOT considering whatsoever also a digital output or tool, but I think it won't be my main one.
