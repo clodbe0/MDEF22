@@ -10,4 +10,4 @@ ssss
 
 
 
-**My Companion**
+**Ghost Sensing Machine**
