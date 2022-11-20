@@ -62,7 +62,7 @@ What I ate:
 
 - snack: a pear, and I baked a banana bread
 
-- dinner: zucchini and boccadillo with jamon
+- dinner: zucchini and boccadillo with jamon iberico
 
 
 I managed to eat more than enough, very healthy and very good too.
