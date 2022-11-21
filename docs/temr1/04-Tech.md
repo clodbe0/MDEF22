@@ -6,10 +6,19 @@ hide:
 # Tech Beyond The Myth
 
 Laptop screens: let's dig in.
+![](../../images/tech/a.jpeg)
+![](../../images/tech/d.jpeg)
+![](../../images/tech/screen.jpeg)
 
+What did we find that surprised us and that we wanna explore and work with:
 
+- green and orange LEDs are used in the monitor to indicate the mode that the monitor is in.
 
+- one push-button of a button-board (of total eight buttons) that we extracted from a Philips-monitor
 
+- two small speakers extracted from the front facade of a Philips monitor that were places right below the LCD-screen.
+
+- screen plastic layers
 
 **Ghost Sensing Machine**
 
@@ -60,6 +69,7 @@ The code reads the analog input from the LDR sensor determines if the amount of 
 ![](../../images/tech/hhh.jpg)
 
 ![](../../images/tech/hgh.jpg)
+
 
 
 
