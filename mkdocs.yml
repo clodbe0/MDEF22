@@ -13,6 +13,7 @@ nav:
   - About: about/me.md
   - Design Studio:
     - First Session: design_studio/00-first session.md
+    - First Intervention: design_studio/01-first intervention.md
   - Reflections :
       - Term 1:
           - Bootcamp: temr1/00-Bootcamp.md

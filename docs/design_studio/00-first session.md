@@ -107,3 +107,7 @@ I'm seeking a open process co-design and participatory design attitude.
 
 Lately I've been experiencing a strong detachment from social media and digital communication methods. I've been using digital tools in the past with the aim to create strong communities and to reach most people possible. But since I live in Barcelona, I've had the chance to explore another form of strong sense of community life, which is the one that each neighborhood builds sharing local places and doing social activities together. I'm more willing to be physically in touch with people, because I would like to use all of my senses and also I want people to experience a design intervention with all of the five senses.
 This doesn't mean that I'm NOT considering whatsoever also a digital output or tool, but I think it won't be my main one.
+
+
+What do I wanna communicate in my communication strategy?
+Show my process, my progress and my intention.
