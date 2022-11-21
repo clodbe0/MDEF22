@@ -18,7 +18,11 @@ Then I met Marc, our Catalan classmate also interested in clay and more specific
 At the beginning of November we went together to La Bisbal, a small town close to Girona famous for its artisans, industries and clay. We discovered around, went to factories, small artisans shops and museums. It was inspiring to me seeing how different are the methods that are traditional over there, compared to what I consider traditional! While in Rome...
 
 Anyways, the trip to la Bisbal made me feel the urge to explore also clay as a possible design intervention field.
+Also, during the Tech Beyond the Myth week we had the chance to go visit Transfolab, which became part of the ideal process... but I'll talk about it later.
 
 So here I am. For now, I will participate to Marc's intervention, to support and help him out when needed, while developing my own concept.
 
 I think it's exciting and scaring at the same time to open it up as a project, but I feel like there are some needs in the ceramic field that are to be satisfied.
+
+**A new design space**
+![](../images/clay/space.jpg)
