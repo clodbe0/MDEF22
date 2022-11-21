@@ -110,9 +110,10 @@ We didn't expect it at all but we can say that the food was good, and it was so 
 
 We decided to reflect before and after the experience. These are mine.
 
-Claudia - Reflection from Food Waste Dinner
+Reflection from Food Waste Dinner
 
 *Before*
+
 
 What are my expectations about cooking with food waste?
 
@@ -122,3 +123,11 @@ Why do I think of this as food waste? / why would I normally be throwing it away
 - I truly believe that the food waste that we generate has a huge cultural components: we are just not used and not educated to cook some specific parts of fruits and vegetables. Another problem is capitalism: I know I'm sorry to bring it up as the devil always but we are so used to have fast and demanding life so that we have very little time and we end up going groceries maybe once a week, well I think that this system generates more waist, compared to the utopian idea to be able to each day, or every other day, buy what we need to eat, consume it and not forget it in the fridge.
 
 *After*
+
+
+How was the experience? What surprised you?
+
+- What surprised me the most was the amount of food waste that we collected, and the fact that after cooking we reduced it just to a small bag of waste. From a table, to a bag.
+I really enjoyed the flow of ideas in the cooking process, and the support that we gave each other while cooking.
+Also, I learned new recipes from other people. Which is great.
+We shared a beautiful evening and dinner, It was nice to make new connection with people that I don't spend that much of a time with in class.

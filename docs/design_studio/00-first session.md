@@ -83,6 +83,9 @@ I wanna involve myself in the first place. In the following days I'm gonna do 4 
 
 #Communication Strategies
 
+**DESIGN FROM GUILT IS NOT EFFECTIVE, we have to create new avenues for exploration, though transformation.**
+
+
 *Understand my audience*
 
 *Being transparent about my intentions, offering a space where people I'm trying to reach and connect can understand better my background, my values, my commitment, my motives, my positionality – creating a foundation for trust*
