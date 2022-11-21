@@ -6,6 +6,7 @@ hide:
 # Tech Beyond The Myth
 
 Laptop screens: let's dig in.
+
 ![](../../images/tech/a.jpeg)
 ![](../../images/tech/d.jpeg)
 ![](../../images/tech/screen.jpeg)

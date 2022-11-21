@@ -12,8 +12,10 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Design Studio:
-    - First Session: design_studio/00-first session.md
-    - First Intervention: design_studio/01-first intervention.md
+    - Food Waste:
+        - First Session: design_studio_food/00-first session.md
+        - First Intervention: design_studio_food/01-first intervention.md
+  - Broken Pieces: design_studio_clay/00-first session.md
   - Reflections :
       - Term 1:
           - Bootcamp: temr1/00-Bootcamp.md
