@@ -14,37 +14,63 @@ The table of my kitchen was covered in food waste.
 **First step: analyze what we have and come up with recipes to cook**
 
 *INGREDIENTS*
+
+
 old and dry bread (a lot)
+
 olive water
+
 pumpkin skin
+
 pumpkin seeds
+
 lemon
+
 cucumber peel
+
 avocado peel
+
 old carrots
+
 carrots green
+
 beetroots green
+
 old lettuce
+
 old apples
+
 mandarine peel
+
 old lemons
+
 apple peel and core
+
 carrots peel
+
 potatoes peel
-olive oil
-olives
+
+olives water
+
 asparagus white part
+
 agua faba (from chickpeas)
+
 old tomatoes
+
 coffe grounds
+
 sweet potatoes peel
+
 old wine
+
 old yogurt
 
 In order to realize some specific recipes, we used also flour, sugar, salt, olive oil, seed oil, philadelphia cheese, cinnamon, tahin, curcuma, pepper, almonds.
 
 
 *RECIPES*
+
 • **Pumpkin skin cream**: boil the pumpkin peel with salt until in gets soft, then blend it and adjust the flavor with pepper, lemon and curcuma.
 
 • **Agua faba crackers**: whip 100g the aqua faba and then add 100g of flour and 40g of olive oil. Bake in the oven at 180 degrees for 24 minutes.
@@ -63,6 +89,7 @@ In order to realize some specific recipes, we used also flour, sugar, salt, oliv
 •**Mulled wine**: cook the old wine with mandarine peels, sugar, cinnamon, apple peals and cores.
 
 *REVIVING RECIPIES*
+
 • Stale bread, soak in water and bake it for 15-20min at 148 degrees
 • Lettuce: soak in cold water for 30 min
 
@@ -80,10 +107,15 @@ We recorded the testing moments because we wanted to remember real reactions.
 We didn't expect it at all but we can say that the food was good, and it was so much! We all went back home with full stomach and full tupperware with some leftovers!
 
 **Fourth step: reflections**
+
 We decided to reflect before and after the experience. These are mine.
+
 Claudia - Reflection from Food Waste Dinner
+
 *Before*
+
 What are my expectations about cooking with food waste?
+
 - First of all, I hope we have enough waste to cook. I'm a little scared, I don't know what are we actually gonna be able to cook because cooking in general is not easy, and making something taste good takes a little bit of practice, especially if it's food waste. Joining forces can help, I'm sure, and I truly believe in the team. I hope we manage to respect the space and the tools that we have available.
 
 Why do I think of this as food waste? / why would I normally be throwing it away?
