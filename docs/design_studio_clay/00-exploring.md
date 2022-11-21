@@ -26,3 +26,14 @@ I think it's exciting and scaring at the same time to open it up as a project, b
 
 **A new design space**
 ![](../images/clay/space.jpg)
+
+A problem that many ceramist artisans experience and that I experienced in the first place while working at Unomi, is the impossibility to recycle the ceramic after that it gets fired.
+
+How does the process work?
+
+1. give a shape to the clay
+2. fire it
+3. glaze it
+4. fire it again
+
+Not every single type of clay works like this, mostly just the high temperature ones, like grés for instance. Some types just need one fire, but still, once it's fired even once, the pottery cannot be brought back to clay.
