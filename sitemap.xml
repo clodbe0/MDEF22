@@ -11,12 +11,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/design_studio/00-first%20session/</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/design_studio_clay/00-exploring/</loc>
          <lastmod>2022-11-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/design_studio/01-first%20intervention/</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/design_studio_food/00-first%20session/</loc>
+         <lastmod>2022-11-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/design_studio_food/01-first%20intervention/</loc>
          <lastmod>2022-11-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
