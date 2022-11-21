@@ -68,6 +68,7 @@ old yogurt
 
 In order to realize some specific recipes, we used also flour, sugar, salt, olive oil, seed oil, philadelphia cheese, cinnamon, tahin, curcuma, pepper, almonds.
 
+![](../images/cook/before.JPG)
 
 *RECIPES*
 
@@ -105,6 +106,8 @@ It took us around two hours, we had many steps to do and just one kitchen with b
 We decided to make it nice, we felt like we deserved it. So we cleaned everything and set a nice table, even with candles!
 We recorded the testing moments because we wanted to remember real reactions.
 We didn't expect it at all but we can say that the food was good, and it was so much! We all went back home with full stomach and full tupperware with some leftovers!
+
+![](../images/cook/after.JPG)
 
 **Fourth step: reflections**
 
