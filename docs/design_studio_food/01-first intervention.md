@@ -147,3 +147,5 @@ About the community who showed up to eat, some of them were friendly, wanted to 
 
 **Design challenges and opportunity:**
 We will go again and we decided to collaborate with them. We observed that the leftover food that they cooked get delivered to homeless people in the neighborhood in not recyclable doggy bags. That's why we decided to develop a DIY doggy bag with eco and bio materials. This is also gonna solve another problem they're facing: while they cook, many people from Raval are just sitting down, waiting, or minding their own business in Agorà. There is not much of cooperation and participation. One of the main goals of FoodNotBombsBCN is also to create a strong and supportive community, so we thought that a nice way to engage the people with each other and with the organization would be to give them something to do together, that creates closeness and dialogue. Something like building the box where you can bring home the food if you have some leftover or if you're not hungry at the moment.
+
+Check our experience **[here](https://vimeo.com/776626749)**
