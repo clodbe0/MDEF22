@@ -2,6 +2,9 @@
 #An intervention
 **Waste cookers: Sami, Ramiro, Josephine, June, Marc, Claudia**
 
+![](../images/cook/grafica.jpeg)
+
+
 Are we aware of how much food we waste?
 Are we aware of how much we throw away while we cook?
 
