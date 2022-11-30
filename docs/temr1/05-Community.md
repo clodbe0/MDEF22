@@ -40,7 +40,7 @@ We all live within social capitals, have different roles and give different leve
 
 # Creative Community
 
-**Context:** “solitude is fine but you need someone to tell you that”  by Honorè de Balzac.
+**Context:** *“Solitude is fine but you need someone to tell you that”*  Honorè de Balzac.
 The context that I decided to explore is the loneliness and solitude developed in the small towns of 5 Terre in Liguria, Italy. During the summer 5 Terre are victims of mass tourism and they get overcrowded and over populated, but as soon as the temperature drops and it becomes cold, they are lived by average 1000 citizens per town, excluded Corniglia that just has 195 citizens.
 
 

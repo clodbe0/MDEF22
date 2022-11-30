@@ -134,3 +134,16 @@ How was the experience? What surprised you?
 I really enjoyed the flow of ideas in the cooking process, and the support that we gave each other while cooking.
 Also, I learned new recipes from other people. Which is great.
 We shared a beautiful evening and dinner, It was nice to make new connection with people that I don't spend that much of a time with in class.
+
+
+
+#Intervention development
+
+The first person perceptive and the waste cooking experiments kept growing on me, reason why I decided to explore more about food waste in Raval. I found out about **FoodNotBombsBCN**, a collective that gathers food from supermarkets that would toss it away and then cook it for people in need. Specifically, they cook for Raval community every monday in a place called Agorà, a community area open to anybody.
+On Monday the 28th me and other mdefers who are developing projects related to food waste and material waste decided to join them, to see how they work and how does the community react.
+We met at 5, saw what they collected from a supermarket and improvised a recipe: we cooked an amazing vegan paella.
+We showed up without any claims, just observing and collaborating in order to understand better and then make our own ideas and opinions.
+About the community who showed up to eat, some of them were friendly, wanted to talk and communicate, some other were just not. I think it takes time to build trust, to manage to gain confidence.
+
+**Design challenges and opportunity:**
+We will go again and we decided to collaborate with them. We observed that the leftover food that they cooked get delivered to homeless people in the neighborhood in not recyclable doggy bags. That's why we decided to develop a DIY doggy bag with eco and bio materials. This is also gonna solve another problem they're facing: while they cook, many people from Raval are just sitting down, waiting, or minding their own business in Agorà. There is not much of cooperation and participation. One of the main goals of FoodNotBombsBCN is also to create a strong and supportive community, so we thought that a nice way to engage the people with each other and with the organization would be to give them something to do together, that creates closeness and dialogue. Something like building the box where you can bring home the food if you have some leftover or if you're not hungry at the moment.
