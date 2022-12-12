@@ -15,8 +15,17 @@ I really enjoyed the artsy aspect that we had the chance to explore with Taller 
 
 ![](../../images/AI/casa.jpg)
 
-What I found interesting are different aspect of the limits of AI: some funny and some scary ones. Like racism, Eurocentrism and North American centrism which leads to the limit of not recognizing other culture’s habits and stuff. I got very inspired and decided to start a communication project about it. But I learned that negative design is not effective, so I decided to look some ingenuity and sympathy in the AI. My personal project is about the value of waste and its multiple different possibilities, so I started to try it out with food scraps. The results were amazing: the AI doesn’t recognize the waste as waste!
+What I found interesting are different aspect of the limits of AI: some funny and some scary ones. Like racism, Eurocentrism and North American centrism which leads to the limit of not recognizing other culture’s habits and stuff. I got very inspired and decided to start a communication project about it. But I learned that negative design is not effective, so I decided to look some ingenuity and sympathy in the AI. My personal project is about the value of waste and its multiple different possibilities, so I started to try it out with food scraps. The results were amazing: the AI doesn’t recognize the waste as waste! Sometimes doesn't recognize it at all so potato peels become teddy bears.
 
 ![](../../images/AI/scraps.jpg)
 
-We decided to make posters about it and add it in the aesthetic of our project, but also to show how much waste is subjective, cultural and educational. It's just a point of perception.
+We decided to make posters about it and add it in the aesthetic of our project, but also to show how much waste is subjective, cultural and educational. Basically it's just a point of perception.
+I'm sure I'm gonna keep work on this concept, by researching the theoretical aspect that will be supported by visual AI. It's growing on me so much.
+
+
+
+
+
+p.s. this is my doppelganger
+
+![](../../images/AI/Unknown.jpg)
