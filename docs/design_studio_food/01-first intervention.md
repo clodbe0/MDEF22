@@ -156,6 +156,7 @@ Learned new ways to use all parts of vegetables.
 
 Cooking and eating together are great ways to bring up complicated topics.
 
+![](../images/interventions/poster.pdf)
 
 #The topic
 
@@ -193,7 +194,7 @@ to use too much of something or use something badly when there is a limited amou
 ‘Waste are unwanted or unusable materials. Waste is any substance which is discarded,after primary use, or is worthless, defective and of no use. A by-product by contrast is a joint
 product of relatively minor economic value.
 
-
+![](../images/interventions/toyou.pdf)
 
 #Intervention development
 
@@ -263,6 +264,8 @@ Good discussion starter.
 Nice way to bring people together.
 
 ![](../images/interventions/idoble.jpeg)
+
+
 
 #Intervention development
 
