@@ -138,17 +138,177 @@ I really enjoyed the flow of ideas in the cooking process, and the support that 
 Also, I learned new recipes from other people. Which is great.
 We shared a beautiful evening and dinner, It was nice to make new connection with people that I don't spend that much of a time with in class.
 
+**Conclusions**
+
+Food tasted better than it looked before and made a colorful meal.
+
+The produce was perfectly fine to still consume.
+
+Able to make a good amount of food with the waste food.
+
+Waste food led to creative cooking and a more immersive experience.
+
+Cooking with food waste is friendly on the pocket.
+
+Total amount of waste generated was reduced.
+
+Learned new ways to use all parts of vegetables.
+
+Cooking and eating together are great ways to bring up complicated topics.
+
+
+#The topic
+
+How the waste stream started?
+
+It first happened in society when the progress of agriculture and farming gave the possibilities to developing countries to overcome the issue of limited food availability.
+This technology progress summed up with the increase of the average income of society allowed a bigger part of the population to access to bigger quantities of food.
+Food was more available, and it slowly started to cost less. This process caused  a huge damage in people’s perception of food value. When things become more available and cheaper, we automatically start thinking that they value less.
+
+After the Second World War, the city started being overcrowded and requiring more necessities. Transportation and infrastructures solved the problem of the distance between production site and consumption.
+
+Food waste started with globalization, technology and retail distribution.
+
+
+**Some questions**
+
+
+What do we want people to perceive?
+
+Do we wanna work on / change perception of value?
+
+Using the senses to intensify understanding / experience
+
+**What is waste?**
+
+waste noun (UNWANTED MATTER):
+unwanted matter or material of any type, especially what is left after useful substances or parts have been removed
+
+waste noun (BAD USE):
+an unnecessary or wrong use of money, substances, time, energy, abilities, etc.:
+
+waste verb [T] (USE BADLY):
+to use too much of something or use something badly when there is a limited amount of it
+
+‘Waste are unwanted or unusable materials. Waste is any substance which is discarded,after primary use, or is worthless, defective and of no use. A by-product by contrast is a joint
+product of relatively minor economic value.
+
 
 
 #Intervention development
 
-The first person perceptive and the waste cooking experiments kept growing on me, reason why I decided to explore more about food waste in Raval. I found out about **FoodNotBombsBCN**, a collective that gathers food from supermarkets that would toss it away and then cook it for people in need. Specifically, they cook for Raval community every monday in a place called Agorà, a community area open to anybody.
-On Monday the 28th me and other mdefers who are developing projects related to food waste and material waste decided to join them, to see how they work and how does the community react.
-We met at 5, saw what they collected from a supermarket and improvised a recipe: we cooked an amazing vegan paella.
-We showed up without any claims, just observing and collaborating in order to understand better and then make our own ideas and opinions.
-About the community who showed up to eat, some of them were friendly, wanted to talk and communicate, some other were just not. I think it takes time to build trust, to manage to gain confidence.
+The first person perceptive and the waste cooking experiments kept growing on me, reason why I decided to explore more about food waste in Raval. I found out about **FoodNotBombsBCN**, a collective that operates in Raval, Barcelona.
+Every Monday they pick up vegetables and food at Veritas, a bio supermarket in El Born, that would otherwise be thrown away. The other days other NGOs pick up the food waste.
+There were 5 people volunteering for FnB when we were there, they go to Agora Communal Garden and cook food with the vegetables they’ve picked up that they then serve for free.
+The people that were in the community garden were mostly people that live in the neighborhood and use the garden regularly. FnB wants to serve food to homeless, but food is not a very big problem for homeless in Barcelona, its mostly shelter and care, and they will accept the food if its given to them but they don’t come to the community garden.
+On Monday the 28th we showed up without any claims, just observing and collaborating in order to understand better and then make our own ideas and opinions. About the community who showed up to eat, some of them were friendly, wanted to talk and communicate, some other were just not. I think it takes time to build trust, to manage to gain confidence.
+
+While we were cooking, many people from Raval were just sitting down, waiting, or minding their own business in Agorà. There is not much of cooperation and participation. One of the main goals of FoodNotBombs is also to create a strong and supportive community, so we thought that a nice way to engage the people with each other and with the organization would be to give them something to do together, that creates closeness and dialogue.
+
 
 **Design challenges and opportunity:**
-We will go again and we decided to collaborate with them. We observed that the leftover food that they cooked get delivered to homeless people in the neighborhood in not recyclable doggy bags. That's why we decided to develop a DIY doggy bag with eco and bio materials. This is also gonna solve another problem they're facing: while they cook, many people from Raval are just sitting down, waiting, or minding their own business in Agorà. There is not much of cooperation and participation. One of the main goals of FoodNotBombsBCN is also to create a strong and supportive community, so we thought that a nice way to engage the people with each other and with the organization would be to give them something to do together, that creates closeness and dialogue. Something like building the box where you can bring home the food if you have some leftover or if you're not hungry at the moment.
+We will go again and we decided to collaborate with them. We observed that the leftover food that they cooked get delivered to homeless people in the neighborhood in not recyclable doggy bags. Also, they expressed the desire to try to connect with other organization in order to wide their web of contacts and opportunities.
+Are there other shops that we can connect FNB with? Or other shops that are not giving food away, that we can connect with other organizations so that all shops give away the food?
+Can we help to develop these connections?
+
+Can we bond with the people that show up?
+
+Can we create a sense of community?
 
 Check our experience **[here](https://vimeo.com/776626749)**
+
+
+**Conclusions**
+
+
+
+Explore other ways of using food waste.
+
+They have issues with takeaway products to deliver food to people in need outside of Agora.
+
+Material creation for possible use of packaging.
+
+Increase the ‘value’ of food and its journey beyond the kitchen.
+
+How can the community be involved  in the process to close the loop?
+
+Can we connect FoodnotBombs with other organizations/ people to collaborate and help more people in a larger span of locations?
+
+
+
+#Third Intervention
+
+
+**El Doble event**
+
+
+Bring difficult topic at the table is never easy. We looked for a delicate but effective way to do that and it happened thanks to the collaborations with El Doble, a tiny tapas restaurant in El Born. We knew the chef of the restaurants and at first we were just asking him to collect the food waste so we could use it for our personal tasks. He started being interested in our project and we decided to make an event: a tapas dinner at the restaurant, where people could order ordinary food from the menu and get some tasting of food cooked with scraps. The chef explained all the recipes, how he reused the unwanted item.
+There was a part of the room dedicated to posters where people could read, reply and interact with our questions.
+
+
+
+**Conclusions**
+
+
+An entertaining way to bring up difficult topics.
+
+Communicative way to show how to use all parts of vegetables.
+
+Educating in a fun way.
+
+Good discussion starter.
+
+Nice way to bring people together.
+
+
+#Intervention development
+
+**Bio Materials**
+
+
+In a regenerative design optic, we applied the intention of waste reuse to materials, as a further way to give value back.
+Using up all the connections that we made during the other project, we started collected even more food waste like coffee grounds from Itnig, eggshells and orange peels from a cafè.
+We decided to explore the possibilities of the waste in another field, with the aim of achieving something that could be actually used again.
+Different components
+Different textures
+Different strength
+
+
+**Conclusions**
+
+
+Opens the mad scientist and almost childlike behavior while getting creative with the process.
+
+Measure twice, mix once.
+
+One recipe, many variables, even more possible outcomes.
+
+It’s all about the texture.
+
+You can mix and match and use everything from your waste.
+
+How can materials be used as a channel to communicate difficult issues?
+
+Materials are not regenerative, but the way that they are used can be.
+
+
+
+#The Use of AI
+
+
+
+What do we perceive as waste & why?
+
+
+How did we end up looking at things as something we want to discard instead of
+looking at it for what it is and seeing the possibilities we have in front of us?
+
+What is value? How do we value things/food/waste? Why?
+
+In order to give an answer to these questions, we decided to explore the cultural, behavioral and political part of waste.
+The comparison with AI helped out through the process.
+
+The AI model did not recognize any of the peels, the scraps, the leftovers, the rotten veggies as we do, but just as items. It did not add a negative connotation to them but just recognize them as their value.
+It is a matter of education and perception.
+
+During the Design Dialogues, we used it as a tool to gather datas and to interact with people.
