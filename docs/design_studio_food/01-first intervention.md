@@ -205,6 +205,7 @@ On Monday the 28th we showed up without any claims, just observing and collabora
 
 While we were cooking, many people from Raval were just sitting down, waiting, or minding their own business in Agorà. There is not much of cooperation and participation. One of the main goals of FoodNotBombs is also to create a strong and supportive community, so we thought that a nice way to engage the people with each other and with the organization would be to give them something to do together, that creates closeness and dialogue.
 
+[](../images/interventions/foodnotbombs .pdf)
 
 **Design challenges and opportunity:**
 We will go again and we decided to collaborate with them. We observed that the leftover food that they cooked get delivered to homeless people in the neighborhood in not recyclable doggy bags. Also, they expressed the desire to try to connect with other organization in order to wide their web of contacts and opportunities.
