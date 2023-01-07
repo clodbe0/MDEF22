@@ -205,7 +205,7 @@ On Monday the 28th we showed up without any claims, just observing and collabora
 
 While we were cooking, many people from Raval were just sitting down, waiting, or minding their own business in Agorà. There is not much of cooperation and participation. One of the main goals of FoodNotBombs is also to create a strong and supportive community, so we thought that a nice way to engage the people with each other and with the organization would be to give them something to do together, that creates closeness and dialogue.
 
-[](../images/interventions/foodnotbombs .pdf)
+![](../images/interventions/foodnotbombs .pdf)
 
 **Design challenges and opportunity:**
 We will go again and we decided to collaborate with them. We observed that the leftover food that they cooked get delivered to homeless people in the neighborhood in not recyclable doggy bags. Also, they expressed the desire to try to connect with other organization in order to wide their web of contacts and opportunities.
@@ -242,6 +242,7 @@ Can we connect FoodnotBombs with other organizations/ people to collaborate and 
 
 **El Doble event**
 
+![](../images/interventions/instadoble.jpeg)
 
 Bring difficult topic at the table is never easy. We looked for a delicate but effective way to do that and it happened thanks to the collaborations with El Doble, a tiny tapas restaurant in El Born. We knew the chef of the restaurants and at first we were just asking him to collect the food waste so we could use it for our personal tasks. He started being interested in our project and we decided to make an event: a tapas dinner at the restaurant, where people could order ordinary food from the menu and get some tasting of food cooked with scraps. The chef explained all the recipes, how he reused the unwanted item.
 There was a part of the room dedicated to posters where people could read, reply and interact with our questions.
@@ -261,6 +262,7 @@ Good discussion starter.
 
 Nice way to bring people together.
 
+![](../images/interventions/idoble.jpeg)
 
 #Intervention development
 
@@ -274,6 +276,7 @@ Different components
 Different textures
 Different strength
 
+![](../images/interventions/matt.jpeg)
 
 **Conclusions**
 
@@ -292,7 +295,7 @@ How can materials be used as a channel to communicate difficult issues?
 
 Materials are not regenerative, but the way that they are used can be.
 
-
+![](../images/interventions/mattot.jpeg)
 
 #The Use of AI
 
@@ -313,3 +316,6 @@ The AI model did not recognize any of the peels, the scraps, the leftovers, the 
 It is a matter of education and perception.
 
 During the Design Dialogues, we used it as a tool to gather datas and to interact with people.
+
+
+![](../images/interventions/veggiea.pdf)
