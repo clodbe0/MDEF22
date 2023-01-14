@@ -15,7 +15,8 @@ nav:
     - Food Waste:
         - First Session: design_studio_food/00-first session.md
         - Interventions: design_studio_food/01-first intervention.md
-    - Broken Pieces: design_studio_clay/00-exploring.md
+        - Reflections: design_studio_food/02-reflection.md
+
   - Reflections :
       - Term 1:
           - Bootcamp: temr1/00-Bootcamp.md
@@ -28,8 +29,8 @@ nav:
 
 
       - Term 2:
-          - digi: term1/01-Bootcamp.md
-          - studio: term1/01-Bootcamp.md
+          - Next Billion Seconds: term2/00-billion.md
+        
 
 
 
