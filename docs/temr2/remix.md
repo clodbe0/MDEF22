@@ -86,6 +86,8 @@ REFLECTIONS
 With one layer of shellac between two pieces of fabric it glues them together making the material sturdier. It creates a water resistant surface, but after a while the water can pass through the material.
 Test more layers of shellac
 
+![](../images/mat/1.jpg)
+
 *RECIPE II*
 10g shellac
 10ml alcohol
@@ -93,6 +95,8 @@ Heat until shellac flakes dissolve Apply between materials
 Post heat with flame
 REFLECTIONS
 It had a very thick consistance and dried quickly making it difficult to work with. Between two pieces of dry porcelain dough it is hardend and acted as a strong binder. Connecting two pieces of Casein Bio Material as a kintsugi principle it has an elastic texture. If post heating with an open flame it hardens and binds pieces together
+
+![](../images/mat/22.jpg)
 
 *RECIPE II*
 10g shellac
@@ -102,6 +106,8 @@ Post heat with flame
 REFLECTIONS
 We used the shellac as we would have with silicone to seal cracks and holes in a plastic container. It works to seal from water when
 dry which took 2 days to dry completely. The aesthetics are not as pleasing, especially when on a white container as this one.
+
+![](../images/mat/2.jpg)
 
 *RECIPE III*
 10g shellac
