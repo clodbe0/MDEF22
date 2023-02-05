@@ -46,7 +46,6 @@ So here I am. For now, I will participate to Marc's intervention, to support and
 
 I think it's exciting and scaring at the same time to open it up as a project, but I feel like there are some needs in the ceramic field that are to be satisfied.
 
-**A new design space**
 ![](../images/clay/space.jpg)
 
 A problem that many ceramist artisans experience and that I experienced in the first place while working at Unomi, is the impossibility to recycle the ceramic after that it gets fired.
@@ -76,4 +75,6 @@ We want to help people to make informed and responsible choices, raising awarene
 
 We hope for a local music policy that doesn’t deny the use of drugs but aims for harm reduction advice and support by showing how to do it safely, giving a non-judgmental service, accessible and available to all.
 
-ciao
+We are working on informational outputs, some developed as a guerrilla marketing action so to print out posters and to stick them around clubs, bars and discos. Also, connecting stickers to a survey to gather data and to a insta account. We want to create a community.
+
+![](../images/drugs/DRUGS.jpg)
