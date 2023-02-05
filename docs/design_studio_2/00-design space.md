@@ -20,7 +20,14 @@ At the end of the first term, I had to reflect on the evolution of my design spa
 
 
 
-**Clay**
+
+
+
+
+
+
+
+#Clay
 
 ![](../images/clay/pottery.JPG)
 
@@ -62,7 +69,8 @@ Not every single type of clay works like this, mostly just the high temperature 
 
 
 
-**Drugs**
+
+#Drugs
 
 It’s no secret that drugs are commonly consumed at music festivals, dance clubs or raves.
 Quite simply, people do it because it can enhance their experience. But we’re not here to justify, give reasons or explain why people do it.  It’s a fact.
@@ -78,3 +86,7 @@ We hope for a local music policy that doesn’t deny the use of drugs but aims f
 We are working on informational outputs, some developed as a guerrilla marketing action so to print out posters and to stick them around clubs, bars and discos. Also, connecting stickers to a survey to gather data and to a insta account. We want to create a community.
 
 ![](../images/drugs/DRUGS.jpg)
+
+![](../images/drugs/posters_1.jpg)
+
+![](../images/drugs/posters-02.jpg)
