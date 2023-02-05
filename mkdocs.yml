@@ -12,10 +12,13 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Design Studio:
-    - Food Waste:
-        - First Session: design_studio_food/00-first session.md
+    - First Session:
+        - Personal Development: design_studio_food/00-first session.md
         - Interventions: design_studio_food/01-first intervention.md
         - Reflections: design_studio_food/02-reflection.md
+      - Second Session:
+        - A new design space: design_studio_2/00-design space.md
+
 
   - Reflections :
       - Term 1:
