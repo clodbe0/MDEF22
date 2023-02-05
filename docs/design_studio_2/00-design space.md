@@ -85,8 +85,60 @@ We hope for a local music policy that doesn’t deny the use of drugs but aims f
 
 We are working on informational outputs, some developed as a guerrilla marketing action so to print out posters and to stick them around clubs, bars and discos. Also, connecting stickers to a survey to gather data and to a insta account. We want to create a community.
 
+
+Mari and I are working on this project together and decided to submit a project for a Sonar open call that gives space to the development of AR/VR design projects!!! Due to feb 26th.
+
 ![](../images/drugs/DRUGS.jpg)
 
 ![](../images/drugs/posters_1.jpg)
 
 ![](../images/drugs/posters-02.jpg)
+
+
+
+
+
+
+
+#Water
+
+
+Wrong perception of water in Barcelona city, people don't trust the drinkability because of the taste and lack of communication: weak signal. how do we perceive the future in order to be positive actants in the present?
+water in Barcelona is an issue, due to the taste most of the time is not drunk by people at home neither from fountain in the street. It just takes a few minutes to check the quality of the water depending on where you live + find out a couple of tricks to get the taste better like
+leave the water in the fridge without a lid
+use activated carbon to filter it
+
+We are facing years or drought cities in Europe. When is the attitude going to change? How are we gonna get water in the future? How is it gonna taste? And not just drinking but washing, cooking, watering plants?
+
+water of the future, develop the concept (not from guilt cause is never effective) to shape attitude and behavior. Already adapting to a future narrative in order to prevent it.
+
+work on communication, people's perception and beliefs. water in Barcelona is drinkable.
+Creating simple systems that don't affect on people timing, a slight change of habits that can communicate a lot about the issue.
+Opening the question:
+how is the future of water gonna be?
+how are we going to adapt to that?
+how are we gonna live in drought cities?
+
+Create a circle, a system, a circuit that can empathize with the future of water scarcity.
+
+WATER LITERACY · WATER PASSPORT
+
+Simple “citizen water literacy” kit or sth.
+like a brochure (independent of the format)
+Provides some of the information we learnt in our visit (and more from other resources) in a very accessible way to citizens of Barcelona.
+Well synthesized, good looking and quick to consume for the local context in this city. (not a global one)
+
+“where does our water come from”
+“how come is it drinkable”
+“is tapwater drinkable”
+“what happens when it leaves our homes”
+“what are the different types of water? (water terminology: technical water, gray-water, black-water, storm water... )
+“how can we reuse it individually” “why and what impact can that have”
+
+Create a synergy for the municipality’s water management team to develop it together and share it through its channels? education with schools, children, citizens
+
+Improved literacy = improved behaviors. (shorturl.at/fxN89)
+
+1) water knowledge has a positive and significant influence on water attitude;
+2) water attitude has a positive and significant impact on water behavior;
+3) water behavior has a positive and significant impact on water literacy
