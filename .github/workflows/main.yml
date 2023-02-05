@@ -34,7 +34,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./site
-
-runs:
-  using: 'node16'
-  main: 'main.js'
