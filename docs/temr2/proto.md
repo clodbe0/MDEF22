@@ -28,8 +28,8 @@ So this is the original graphic:
 
 And here's the first attempt on Womp, I have to say that I struggled a little with the use of the curve, because it works with points and I had to control each single one of them.
 
-![](../images/proto/womp1.jpg)
-![](../images/proto/womp2.jpg)
+![](../images/proto/womp1.png)
+![](../images/proto/womp2.png)
 
 
  Make a pressfit prototype of your choice or some molds.
