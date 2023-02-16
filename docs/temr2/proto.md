@@ -32,9 +32,7 @@ And here's the first attempt on Womp, I have to say that I struggled a little wi
 ![](../images/proto/womp2.png)
 
 
- Make a pressfit prototype of your choice or some molds.
 
- (always save it as rhino 5)
 
 
 
