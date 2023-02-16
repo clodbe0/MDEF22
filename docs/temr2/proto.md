@@ -35,3 +35,14 @@ And here's the first attempt on Womp, I have to say that I struggled a little wi
  Make a pressfit prototype of your choice or some molds.
 
  (always save it as rhino 5)
+
+
+
+**LASER CUTTING**
+
+Exploring some laser cutting (and finally actually learning how to use the machine [almost independently]) first on cardboard to understand and explore, then on plywood and eventually on acrylic. It takes a lot of time but it's oddly satisfying to watch I have to admit.
+
+![](../images/proto/bv.JPG)
+
+
+![](../images/proto/vv.JPG)
