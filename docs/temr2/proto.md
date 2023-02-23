@@ -17,6 +17,13 @@ I still didn't manage to make a connection with the board in my own laptop but I
 https://vimeo.com/796948387
 
 
+
+**Parametrize**
+
+My first attempt with parametrize: a croissant!
+![](../images/proto/croissant.JPG)
+
+
 **FIST ATTEMPT WITH WOMP**
 
 Since that I already know a little bit how to use Rhino, I decided to dedicate some time on learning how to use Womp, a 3D modeling program much more intuitive and simple.  
