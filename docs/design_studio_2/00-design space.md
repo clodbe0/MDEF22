@@ -27,6 +27,58 @@ At the end of the first term, I had to reflect on the evolution of my design spa
 
 
 
+
+
+
+
+#Water
+
+
+Wrong perception of water in Barcelona city, people don't trust the drinkability because of the taste and lack of communication: weak signal. how do we perceive the future in order to be positive actants in the present?
+water in Barcelona is an issue, due to the taste most of the time is not drunk by people at home neither from fountain in the street. It just takes a few minutes to check the quality of the water depending on where you live + find out a couple of tricks to get the taste better like
+leave the water in the fridge without a lid
+use activated carbon to filter it
+
+We are facing years or drought cities in Europe. When is the attitude going to change? How are we gonna get water in the future? How is it gonna taste? And not just drinking but washing, cooking, watering plants?
+
+water of the future, develop the concept (not from guilt cause is never effective) to shape attitude and behaviour. Already adapting to a future narrative in order to prevent it.
+
+work on communication, people's perception and beliefs. water in Barcelona is drinkable.
+Creating simple systems that don't affect on people timing, a slight change of habits that can communicate a lot about the issue.
+Opening the question:
+how is the future of water gonna be?
+how are we going to adapt to that?
+how are we gonna live in drought cities?
+
+Create a circle, a system, a circuit that can empathise with the future of water scarcity.
+
+WATER LITERACY · WATER PASSPORT
+
+Simple “citizen water literacy” kit or sth.
+like a brochure (independent of the format)
+Provides some of the information we learnt in our visit (and more from other resources) in a very accessible way to citizens of Barcelona.
+Well synthesised, good looking and quick to consume for the local context in this city. (not a global one)
+
+“where does our water come from”
+“how come is it drinkable”
+“is tap water drinkable”
+“what happens when it leaves our homes”
+“what are the different types of water? (water terminology: technical water, gray-water, black-water, storm water... )
+“how can we reuse it individually” “why and what impact can that have”
+
+Create a synergy for the municipality’s water management team to develop it together and share it through its channels? education with schools, children, citizens
+
+Improved literacy = improved behaviours. (shorturl.at/fxN89)
+
+1) water knowledge has a positive and significant influence on water attitude;
+2) water attitude has a positive and significant impact on water behaviour;
+3) water behaviour has a positive and significant impact on water literacy
+
+
+
+
+
+
 #Clay
 
 ![](../images/clay/pottery.JPG)
@@ -35,7 +87,7 @@ At the end of the first term, I had to reflect on the evolution of my design spa
 If I have to think what I'm passionate about I'd start with clay and pottery.
 During my last year of bachelor I had to do an internship. Covid just happened and after months of online lessons I couldn't not spend one more minute in front of my laptop.
 That's why I decided to knock the door of a pottery studio called Unomi, in Turin, Italy.
-Cristina, the owner of the lab and an amazing artisan taught me everything, not just how to spin the wheel, but how to deal with a studio that works with students who are learning, with clients and with restaurants who want specific shapes and specific color for each plate.
+Cristina, the owner of the lab and an amazing artisan taught me everything, not just how to spin the wheel, but how to deal with a studio that works with students who are learning, with clients and with restaurants who want specific shapes and specific colour for each plate.
 I worked at **Unomi** for two years and it changed myself and my life.
 When I moved to Barcelona I decided not to give up on that and brought with me my spin wheel to share my passion with others.
 I think it's what I like to do the most.
@@ -75,7 +127,7 @@ Not every single type of clay works like this, mostly just the high temperature 
 It’s no secret that drugs are commonly consumed at music festivals, dance clubs or raves.
 Quite simply, people do it because it can enhance their experience. But we’re not here to justify, give reasons or explain why people do it.  It’s a fact.
 Drug use exists, and there’s the urgent need to make it happen in the most safe way possible.
-We take for granted that festival organizers know that drugs will get onto the site, so we believe it's a responsibility to make sure people remain safe. Denying the issue just causes fatalities.
+We take for granted that festival organisers know that drugs will get onto the site, so we believe it's a responsibility to make sure people remain safe. Denying the issue just causes fatalities.
 
 “Festivals attract a wide array of people not experienced with party drugs. Relying on strangers inside to purchase drugs is a risk factor for purchasing adulterated products. Fear of security/police at festivals leads to risky drug-taking such as ingesting one’s full batch of drugs at the entrance. These risks are compounded by environmental factors including crowding, hot temperature, and lack of water and inadequate medical emergency response.”
 
@@ -97,48 +149,6 @@ Mari and I are working on this project together and decided to submit a project 
 
 
 
+**Developments**
 
-
-
-#Water
-
-
-Wrong perception of water in Barcelona city, people don't trust the drinkability because of the taste and lack of communication: weak signal. how do we perceive the future in order to be positive actants in the present?
-water in Barcelona is an issue, due to the taste most of the time is not drunk by people at home neither from fountain in the street. It just takes a few minutes to check the quality of the water depending on where you live + find out a couple of tricks to get the taste better like
-leave the water in the fridge without a lid
-use activated carbon to filter it
-
-We are facing years or drought cities in Europe. When is the attitude going to change? How are we gonna get water in the future? How is it gonna taste? And not just drinking but washing, cooking, watering plants?
-
-water of the future, develop the concept (not from guilt cause is never effective) to shape attitude and behavior. Already adapting to a future narrative in order to prevent it.
-
-work on communication, people's perception and beliefs. water in Barcelona is drinkable.
-Creating simple systems that don't affect on people timing, a slight change of habits that can communicate a lot about the issue.
-Opening the question:
-how is the future of water gonna be?
-how are we going to adapt to that?
-how are we gonna live in drought cities?
-
-Create a circle, a system, a circuit that can empathize with the future of water scarcity.
-
-WATER LITERACY · WATER PASSPORT
-
-Simple “citizen water literacy” kit or sth.
-like a brochure (independent of the format)
-Provides some of the information we learnt in our visit (and more from other resources) in a very accessible way to citizens of Barcelona.
-Well synthesized, good looking and quick to consume for the local context in this city. (not a global one)
-
-“where does our water come from”
-“how come is it drinkable”
-“is tapwater drinkable”
-“what happens when it leaves our homes”
-“what are the different types of water? (water terminology: technical water, gray-water, black-water, storm water... )
-“how can we reuse it individually” “why and what impact can that have”
-
-Create a synergy for the municipality’s water management team to develop it together and share it through its channels? education with schools, children, citizens
-
-Improved literacy = improved behaviors. (shorturl.at/fxN89)
-
-1) water knowledge has a positive and significant influence on water attitude;
-2) water attitude has a positive and significant impact on water behavior;
-3) water behavior has a positive and significant impact on water literacy
+I'm mainly focusing on the project **DRUGS? YOU BETTER KNOW**
