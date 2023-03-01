@@ -26,7 +26,7 @@ My first attempt with parametrize: a croissant!
 
 **FIST ATTEMPT WITH WOMP**
 
-Since that I already know a little bit how to use Rhino, I decided to dedicate some time on learning how to use Womp, a 3D modeling program much more intuitive and simple.  
+Since that I already know a little bit how to use Rhino, I decided to dedicate some time on learning how to use Womp, a 3D modelling program much more intuitive and simple.  
 For a bigger project, I'm working on psychedelics graphics and now I'm trying to give them a 3D life. Here's the first attempt!
 
 So this is the original graphic:
@@ -37,6 +37,16 @@ And here's the first attempt on Womp, I have to say that I struggled a little wi
 
 ![](../images/proto/womp1.png)
 ![](../images/proto/womp2.png)
+
+
+**MORSE CODE**
+ Inputs and outputs. How to make a sensor and an actuator communicate with each other? With a LDS who's basically a resistor that reads the light in the room and then we can also use a normal LED to switch the light on and off.
+ The morse code is needed to send data, information and command from LED to LDR.
+
+ ![](../images/proto/morse.png)
+
+
+
 
 
 
@@ -52,6 +62,7 @@ Exploring some laser cutting (and finally actually learning how to use the machi
 
 
 **MICRO CHALLENGE WEEK**
+
 We wanna help people to communicate their ideas, opinion and experience about drugs without using the voice, by creating a tool that could help them speak without speaking. Why? Because sometimes seems hard to talk and express opinions about specific topics, if it feels like they are being denied by society and there's no enough freedom to bring the conversation to the table, and especially to share a personal experience, positive or negative an habit or even an addiction related to something illegal and usually misread.
 
 ![](../images/micro/b.png)
@@ -89,7 +100,6 @@ So eventually each participant could feel like living in an open space where to 
 First experiment with the 3d printer, modelled a volcano try with Rhino, embedded it in Cura and finally 3D printed it. Took 1.5 hours.
 
 
-![](../images/proto/rhino.png)
 
 ![](../images/proto/z.JPG)
 
@@ -97,7 +107,23 @@ First experiment with the 3d printer, modelled a volcano try with Rhino, embedde
 
 ![](../images/proto/zzz.JPG)
 
+![](../images/proto/rhino.png)
 
+
+
+
+#Communication between laptop
+
+Throughout the Wifi broadcasting and the ESP32 feather, we typed messages on Arduino serial monitor and, after connecting 4 laptop in the class to the wifi we could communicate via MQTT to the broker.
+
+
+![](../images/proto/hello.JPG)
+
+
+
+
+
+#Machine vs Machine
 
 
 
@@ -136,3 +162,44 @@ void loop() {
   delay(1000);                      // wait for a second
 }
 ```
+
+SECOND TASK: having it blinking by command
+Be aware that mac and windows work different when copying a line, so need to adapt it.
+We can make some changes, blink fast, blink slow, how many blinks... Giving more parameters to Arduino basically.
+
+"Blink fast" as a command in order to hopping
+
+
+```
+#include "Arduino.h"
+#define LED_PIN 14
+
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_PIN, OUTPUT);
+  Serial.begin(9600);
+}
+
+void blink () {
+  digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);                       // wait for a second
+  digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);                       // wait for a second
+}
+
+void hopping () {
+  digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(100);                       // wait for a second
+  digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
+  delay(100);                       // wait for a second
+  digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(100);                       // wait for a second
+  digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
+  delay(100);  
+  digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(100);                       // wait for a second
+  digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
+  ```
+
+  ![](../images/proto/haha.jpeg)
