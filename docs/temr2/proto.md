@@ -40,9 +40,6 @@ And here's the first attempt on Womp, I have to say that I struggled a little wi
 
 
 
-
-
-
 **LASER CUTTING**
 
 Exploring some laser cutting (and finally actually learning how to use the machine [almost independently]) first on cardboard to understand and explore, then on plywood and eventually on acrylic. It takes a lot of time but it's oddly satisfying to watch I have to admit.
@@ -84,3 +81,58 @@ So eventually each participant could feel like living in an open space where to 
 ![](../images/micro/final.jpg)
 
 ![](../images/micro/phone.jpg)
+
+
+
+**3D PRINTING**
+
+First experiment with the 3d printer, modelled a volcano try with Rhino, embedded it in Cura and finally 3D printed it. Took 1.5 hours.
+
+
+![](../images/proto/rhino.png)
+
+![](../images/proto/z.JPG)
+
+![](../images/proto/zz.JPG)
+
+![](../images/proto/zzz.JPG)
+
+
+
+
+
+**BLINKING LED**
+
+
+FIRST TASK: basically, make it blink!
+
+
+![](../images/proto/BL.JPG)
+
+
+```
+/*
+  Blink
+
+  Turns an LED on for one second, then off for one second, repeatedly.
+
+*/
+
+// the setup function runs once when you press reset or power the board
+
+
+#define LED 14 //int LED = 14; practically these two have the same output put they come to the result in different ways.
+
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED, HIGH);  // turn the LED on (HIGH is the voltage level)
+  delay(1000);                      // wait for a second
+  digitalWrite(LED, LOW);   // turn the LED off by making the voltage LOW
+  delay(1000);                      // wait for a second
+}
+```
