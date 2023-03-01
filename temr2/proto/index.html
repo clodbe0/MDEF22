@@ -645,6 +645,40 @@ Using an augmented reality development package and ARKit, we then developed an a
 <p>So eventually each participant could feel like living in an open space where to share, even more intimate and private stuff related to drugs. This project is part of a wider project called DRUGS YOU BETTER KNOW that soon will try to participate to a Sonar open call for artistic and technological projects working at the intersection between art, technology, sciences, and society, aiming for ideas that see the development of AI, VR, AR. We&rsquo;re also developing a VR immersive experience to break walls of prejudice and conservatism to open dialogue and reduce drug harms at festivals.</p>
 <p><img alt="" src="../../images/micro/final.jpg" /></p>
 <p><img alt="" src="../../images/micro/phone.jpg" /></p>
+<p><strong>3D PRINTING</strong></p>
+<p>First experiment with the 3d printer, modelled a volcano try with Rhino, embedded it in Cura and finally 3D printed it. Took 1.5 hours.</p>
+<p><img alt="" src="../../images/proto/rhino.png" /></p>
+<p><img alt="" src="../../images/proto/z.JPG" /></p>
+<p><img alt="" src="../../images/proto/zz.JPG" /></p>
+<p><img alt="" src="../../images/proto/zzz.JPG" /></p>
+<p><strong>BLINKING LED</strong></p>
+<p>FIRST TASK: basically, make it blink!</p>
+<p><img alt="" src="../../images/proto/BL.JPG" /></p>
+<div class="highlight"><pre><span></span><code>/*
+  Blink
+
+  Turns an LED on for one second, then off for one second, repeatedly.
+
+*/
+
+// the setup function runs once when you press reset or power the board
+
+
+#define LED 14 //int LED = 14; practically these two have the same output put they come to the result in different ways.
+
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED, HIGH);  // turn the LED on (HIGH is the voltage level)
+  delay(1000);                      // wait for a second
+  digitalWrite(LED, LOW);   // turn the LED off by making the voltage LOW
+  delay(1000);                      // wait for a second
+}
+</code></pre></div>
                 
                   
                     
@@ -653,7 +687,7 @@ Using an augmented reality development package and ARKit, we then developed an a
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 23, 2023</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 1, 2023</span>
     
   </small>
 </div>
