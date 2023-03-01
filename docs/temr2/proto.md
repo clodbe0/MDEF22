@@ -206,7 +206,7 @@ void hopping () {
 
 
 
-  SECOND TASK: adding an effect - Breathe
+  THIRD TASK: adding an effect - Breathe
 
 
   ```
@@ -260,3 +260,40 @@ void loop() {
 
 }
   ```
+
+
+  FOURTH TASK: A way so that we can listen to the same command at the same time. One hits the button, all the LDS respond.
+
+  ```
+#include "jled.h"
+#define LED_PIN 14
+
+// New code for MQTT!
+//-------------------
+#include <WiFi.h>
+#include <PubSubClient.h>
+
+const char* ssid = "Iaac-Wifi";
+const char* password = "EnterIaac22@";
+WiFiClient wifiClient;
+
+const char* mqttBroker = "mqtt-staging.smartcitizen.me";
+const char* mqttClientName = "s&c";
+const char* mqttClientUser = "fablabbcn102";
+const char* mqttClientPass = "";
+const char* topicToSub = "lab";
+// const char* topicToPub = "lab";
+PubSubClient mqttClient(wifiClient);
+//-------------------
+
+// Jled object.
+// More information here: https://github.com/jandelgado/jled#usage
+JLed led = JLed(LED_PIN);
+
+//-------------------
+// Add more animations here!
+// Basic blink
+void blink () {
+  led.Blink(1000, 600).Repeat(3);
+}
+```
