@@ -720,6 +720,51 @@ void setup() {
   digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
   ```</p>
 <p><img alt="" src="../../images/proto/haha.jpeg" /></p>
+<p>SECOND TASK: adding an effect - Breathe</p>
+<p>```
+  #include &ldquo;Arduino.h&rdquo;</p>
+<h1 id="include-jledh">include &ldquo;jled.h&rdquo;<a class="headerlink" href="#include-jledh" title="Permanent link">&para;</a></h1>
+<h1 id="define-led_pin-14_1">define LED_PIN 14<a class="headerlink" href="#define-led_pin-14_1" title="Permanent link">&para;</a></h1>
+<p>// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  Serial.begin(9600);
+}</p>
+<p>// Jled object.
+// More information here: <a href="https://github.com/jandelgado/jled#usage">https://github.com/jandelgado/jled#usage</a>
+JLed led = JLed(LED_PIN);</p>
+<p>// Basic blink
+void blink () {
+  led.Blink(1000, 600).Repeat(3);
+}</p>
+<p>// Smooth breathing
+void breathe() {
+  led.Breathe(1000).Repeat(3);
+}</p>
+<p>// the loop function runs over and over again forever
+void loop() {</p>
+<p>if (Serial.available()) {
+    // Read the string and clean it up
+    String newMsg = Serial.readString();
+    newMsg.trim();</p>
+<div class="codehilite"><pre><span></span><code>// For debugging purposes, print it
+Serial.print(&quot;Got new message!: &quot;);
+Serial.println(newMsg);
+
+// Blink if we tell it to!
+if (newMsg.equals(&quot;blink&quot;)){
+  blink();
+// Or breathe!
+} else if (newMsg.equals(&quot;breathe&quot;)) {
+  breathe();
+}
+</code></pre></div>
+
+<p>}</p>
+<p>// Do not remove this line!
+  led.Update();</p>
+<p>}
+  ```</p>
                 
                   
                     
