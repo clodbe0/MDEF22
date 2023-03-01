@@ -691,22 +691,24 @@ void loop() {
 Be aware that mac and windows work different when copying a line, so need to adapt it.
 We can make some changes, blink fast, blink slow, how many blinks&hellip; Giving more parameters to Arduino basically.</p>
 <p>&ldquo;Blink fast&rdquo; as a command in order to hopping</p>
-<p>```</p>
-<h1 id="include-arduinoh">include &ldquo;Arduino.h&rdquo;<a class="headerlink" href="#include-arduinoh" title="Permanent link">&para;</a></h1>
-<h1 id="define-led_pin-14">define LED_PIN 14<a class="headerlink" href="#define-led_pin-14" title="Permanent link">&para;</a></h1>
-<p>// the setup function runs once when you press reset or power the board
+<div class="highlight"><pre><span></span><code>#include &quot;Arduino.h&quot;
+#define LED_PIN 14
+
+// the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_PIN, OUTPUT);
   Serial.begin(9600);
-}</p>
-<p>void blink () {
+}
+
+void blink () {
   digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(1000);                       // wait for a second
   digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
-}</p>
-<p>void hopping () {
+}
+
+void hopping () {
   digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(100);                       // wait for a second
   digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
@@ -714,57 +716,107 @@ void setup() {
   digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(100);                       // wait for a second
   digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(100);<br />
+  delay(100);  
   digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(100);                       // wait for a second
   digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
-  ```</p>
-<p><img alt="" src="../../images/proto/haha.jpeg" /></p>
-<p>SECOND TASK: adding an effect - Breathe</p>
-<p>```
-  #include &ldquo;Arduino.h&rdquo;</p>
-<h1 id="include-jledh">include &ldquo;jled.h&rdquo;<a class="headerlink" href="#include-jledh" title="Permanent link">&para;</a></h1>
-<h1 id="define-led_pin-14_1">define LED_PIN 14<a class="headerlink" href="#define-led_pin-14_1" title="Permanent link">&para;</a></h1>
-<p>// the setup function runs once when you press reset or power the board
+  ```
+
+  ![](../images/proto/haha.jpeg)
+
+
+
+  THIRD TASK: adding an effect - Breathe
+
+
+  ```
+  #include &quot;Arduino.h&quot;
+#include &quot;jled.h&quot;
+#define LED_PIN 14
+
+// the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   Serial.begin(9600);
-}</p>
-<p>// Jled object.
-// More information here: <a href="https://github.com/jandelgado/jled#usage">https://github.com/jandelgado/jled#usage</a>
-JLed led = JLed(LED_PIN);</p>
-<p>// Basic blink
+}
+
+// Jled object.
+// More information here: https://github.com/jandelgado/jled#usage
+JLed led = JLed(LED_PIN);
+
+// Basic blink
 void blink () {
   led.Blink(1000, 600).Repeat(3);
-}</p>
-<p>// Smooth breathing
+}
+
+// Smooth breathing
 void breathe() {
   led.Breathe(1000).Repeat(3);
-}</p>
-<p>// the loop function runs over and over again forever
-void loop() {</p>
-<p>if (Serial.available()) {
+}
+
+// the loop function runs over and over again forever
+void loop() {
+
+  if (Serial.available()) {
     // Read the string and clean it up
     String newMsg = Serial.readString();
-    newMsg.trim();</p>
-<div class="codehilite"><pre><span></span><code>// For debugging purposes, print it
-Serial.print(&quot;Got new message!: &quot;);
-Serial.println(newMsg);
+    newMsg.trim();
 
-// Blink if we tell it to!
-if (newMsg.equals(&quot;blink&quot;)){
-  blink();
-// Or breathe!
-} else if (newMsg.equals(&quot;breathe&quot;)) {
-  breathe();
+    // For debugging purposes, print it
+    Serial.print(&quot;Got new message!: &quot;);
+    Serial.println(newMsg);
+
+    // Blink if we tell it to!
+    if (newMsg.equals(&quot;blink&quot;)){
+      blink();
+    // Or breathe!
+    } else if (newMsg.equals(&quot;breathe&quot;)) {
+      breathe();
+    }
+  }
+
+  // Do not remove this line!
+  led.Update();
+
+}
+  ```
+
+
+  FOURTH TASK: A way so that we can listen to the same command at the same time. One hits the button, all the LDS respond.
+
+  ```
+#include &quot;jled.h&quot;
+#define LED_PIN 14
+
+// New code for MQTT!
+//-------------------
+#include &lt;WiFi.h&gt;
+#include &lt;PubSubClient.h&gt;
+
+const char* ssid = &quot;Iaac-Wifi&quot;;
+const char* password = &quot;EnterIaac22@&quot;;
+WiFiClient wifiClient;
+
+const char* mqttBroker = &quot;mqtt-staging.smartcitizen.me&quot;;
+const char* mqttClientName = &quot;s&amp;c&quot;;
+const char* mqttClientUser = &quot;fablabbcn102&quot;;
+const char* mqttClientPass = &quot;&quot;;
+const char* topicToSub = &quot;lab&quot;;
+// const char* topicToPub = &quot;lab&quot;;
+PubSubClient mqttClient(wifiClient);
+//-------------------
+
+// Jled object.
+// More information here: https://github.com/jandelgado/jled#usage
+JLed led = JLed(LED_PIN);
+
+//-------------------
+// Add more animations here!
+// Basic blink
+void blink () {
+  led.Blink(1000, 600).Repeat(3);
 }
 </code></pre></div>
-
-<p>}</p>
-<p>// Do not remove this line!
-  led.Update();</p>
-<p>}
-  ```</p>
                 
                   
                     
