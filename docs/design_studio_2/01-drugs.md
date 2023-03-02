@@ -68,3 +68,38 @@ Depending on the environment that will be available, we will adapt the board: ph
 
 
 ![](../images/sonar/e.png)
+
+
+
+**Developments**
+
+The project is changing and evolving each week. Now it even changed name and became **BEYOND DRUGS**.
+
+
+Beyond Drugs offers a captivating virtual reality experience that intersects multiple concepts, such as protein unfolding and Huxley's Doors of Perception, to shed light on the often taboo conversations surrounding recreational drug use. The project aims to provide an inclusive and immersive experience to bring attention to the hidden dialogue around drug use.
+
+Drug consumption at music festivals, dance clubs, and raves is a well-known fact, and the project does not intend to justify it. Instead, Beyond Drugs focuses on creating a non-judgmental and open-minded environment that encourages pragmatic conversation around recreational drug use. To achieve this, the project uses interactive design and tools to gather data and inform users of personal experiences related to drug use. Increased dialogue can help reduce stigma and discrimination and acknowledging drug use can help mitigate harm. Beyond Drugs believes that promoting a more accepting and open attitude towards drug use can make a significant difference.
+
+The project is a continuous series of interactive experiences that coexist to enlighten a non-biased dialogue referring to recreational substances. What we would like to present for this Open Call is a virtual reality environment which serves as the complementary piece to a previously performed interactive installation: “the confessionary”. Final exhibition presented in virtual reality is then a piece compiled from audio data previously gathered through the confessionary, working as follows:
+
+- confessionary: audio recording
+- audio2face conversation: NVIDIA Omniverse AI used to animate face models with pre recorded audio
+- VR experience: animated anonymous faces tell individual and personal stories
+
+
+![](../images/drugs/ed.png)
+
+The lack of communication and dialogue around drugs often leads to a lack of awareness and information about the topic. At Beyond Drugs, we believe that sharing personal experiences can be a valuable tool in preventing harm to other users. To promote communication and comfortability, we have created The Confessionary - a personal, protected space where users can freely narrate their personal experiences with drugs anonymously. The Confessional is made of plywood, lightweight, and easy to carry around.
+
+All the stories shared in The Confessional are then translated into our VR experience. We recognize that the use of substances is both literary and personal, where one's experience is only superficially narrated by literature on a substance and its effects. Therefore, we believe that personal conversations are essential when discussing the topic of drugs. When someone wants to try a new recreational substance, one of the first things they often seek is information on the effects and experiences of others. This information is usually found online or from friends. However, we want to provide a safe space for people to share their experiences and create a database of stories which will be exhibited in following installations. We believe in the power of storytelling. Through the power of personal narratives, we hope to promote understanding, reduce stigma and discrimination, and create a more accepting and open attitude towards drug use.
+
+
+A space to share. VR immersive experience.
+
+As users enter the virtual reality space, they are presented with a room filled with many doors. Each door represents the entrance to a different recreational drug, offering users a range of choices. Upon entering a particular door, users are transported to a room filled with faces that speak about their experiences with the drug. These conversations allow users to explore the positive and negative effects of the drug from the perspective of those who have tried it.
+
+But Beyond Drugs goes beyond mere dialogue. The room also includes the protein structures that receive the drug in our bodies. Users can see the unfolding of these proteins and gain an understanding of how the drug interacts with their body at a molecular level. This experience provides a deeper understanding of the effects of the drug on the body and mind.
+
+The concept of Huxley's Doors of Perception is also at play in Beyond Drugs. By presenting users with the opportunity to experience different recreational drugs in a safe and controlled virtual environment, the project challenges their preconceived notions of reality and expands their understanding of the world around them. Users are forced to confront the consequences of their actions and explore the consequences of their choices.
+
+In conclusion, Beyond Drugs is a thought-provoking project that combines multiple concepts to bring to shore the hidden conversations around recreational drugs. By using virtual reality to present users with a safe and controlled environment to explore the effects of different drugs, the project challenges their preconceptions and expands their understanding of the world around them. Through the immersive experience, users gain a deeper appreciation of the unfolding of proteins, the Doors of Perception, and the impact of their choices on their mind and body.

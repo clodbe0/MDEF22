@@ -297,3 +297,15 @@ void blink () {
   led.Blink(1000, 600).Repeat(3);
 }
 ```
+
+
+
+#CnC
+
+Usign Cnc to prototype our confessionario.
+
+First step: Rhino render to understand measures and proportions.
+
+![](../images/drugs/ed.png)
+
+Secind step: adapt the file to CnC configuration
