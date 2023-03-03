@@ -302,10 +302,26 @@ void blink () {
 
 #CnC
 
-Usign Cnc to prototype our confessionario.
+Using Cnc to prototype our confessional.
 
-First step: Rhino render to understand measures and proportions.
+First step: Rhino render to understand measures and proportions. The design changed a lot in order to fit in in the board we had available and also to make it at light as possible. We designed a Confessional which is part of our main project about drug consumption. We'll use the piece as a free space for people to tell stories about their experience with drugs. Sorry MDEF for not have built something for class... This is needed for a bigger project, we'll hope that Sonar likes it!
 
-![](../images/drugs/ed.png)
 
-Secind step: adapt the file to CnC configuration
+![](../images/proto/a.png)
+
+Second step: adapt the file to CnC configuration, so start by making 2D of the file. The walls of the Confessional will be joined together so we had to figure out the finger tenons joinery system.
+
+![](../images/proto/2d.png)
+
+Third step: understand how to set the Machine.
+
+![](../images/proto/ellll.JPG)
+
+![](../images/proto/ellla.JPG)
+
+Fourth step: let's do thiiiiiiiiiiiiiiis. I have to say that this was way more complicated than expected. So many details to consider that just don't come to mind when 3D modelling, so many tiny adjustements to make at the very last minute. Part of the game I guess.
+
+
+![](../images/proto/elll.JPG)
+
+![](../images/proto/el.JPG)
