@@ -33,3 +33,11 @@ Pick one question and make a statement out of it:
 Do we have time and energies to do what we love?
 
 At the end of a working day people don't have the time and the mental / physical energy to do what they love.
+
+
+There are two approaches to measure data:
+1. collect data myself and use it
+2. use data collected by others
+
+
+Reverse auction to distribute the available tools between the groups. We need Arduino.
