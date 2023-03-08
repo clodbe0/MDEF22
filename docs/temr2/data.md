@@ -26,3 +26,10 @@ questions:
 - Do we have time to connect with people in a meaningful way?
 - Do we have time and energies to do what we love?
 - Do we feel we are free to choose?
+
+
+Pick one question and make a statement out of it:
+
+Do we have time and energies to do what we love?
+
+At the end of a working day people don't have the time and the mental / physical energy to do what they love.
