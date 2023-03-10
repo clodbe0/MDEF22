@@ -319,7 +319,7 @@ Third step: understand how to set the Machine.
 
 ![](../images/proto/ellla.JPG)
 
-Fourth step: let's do thiiiiiiiiiiiiiiis. I have to say that this was way more complicated than expected. So many details to consider that just don't come to mind when 3D modelling, so many tiny adjustements to make at the very last minute. Part of the game I guess.
+Fourth step: let's do thiiiiiiiiiiiiiiis. I have to say that this was way more complicated than expected. So many details to consider that just don't come to mind when 3D modelling, so many tiny adjustments to make at the very last minute. Part of the game I guess.
 
 
 ![](../images/proto/elll.JPG)
