@@ -41,3 +41,6 @@ There are two approaches to measure data:
 
 
 Reverse auction to distribute the available tools between the groups. We need Arduino.
+
+
+Check our work **[here](https://hackmd.io/wLNUaeyyR32BA8rWh7lFUg?both#First-experiments)**
