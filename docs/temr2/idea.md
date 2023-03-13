@@ -27,3 +27,8 @@ be flexible, adaptable, be many things but also one only if I feel like. Feel fr
 **MINIMUM VIABLE MESSAGE**
 
 The Unfolding Conversations project utilizes VR technology and interaction design to create a safe and inclusive space for discussing the use of psychoactive substances. Through a physical installation called "The Confessional" and a complementary VR experience, users can share their personal experiences anonymously and learn from others' stories in a controlled environment. Our aim is to foster an immersive and collaborative dialogue on this topic.
+
+
+
+*My personal digital brand kit*
+![](../images/idea/me.jpg)
