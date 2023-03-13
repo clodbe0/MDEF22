@@ -32,3 +32,11 @@ The Unfolding Conversations project utilizes VR technology and interaction desig
 
 *My personal digital brand kit*
 ![](../images/idea/me.jpg)
+
+
+
+
+
+#The importance of getting priorities
+When thinking of stakeholders, is important to learn how to prioritise them. Vital to engage, Necessary to engage, Good to have on board, Courtesy to inform.
+Since that our project is an installation that lives out of the experience of people who participate, our "vital to engage" stakeholders are the people who participate and who feed the installation. The "good to have on board" might be places that can host the installation and that can already filter the crowd. The "courtesy to inform" are followers, music field organisations, clubs and artists. 
