@@ -59,6 +59,11 @@ Exploring some laser cutting (and finally actually learning how to use the machi
 
 ![](../images/proto/vv.JPG)
 
+Then I used the laser cutting to cut plywood in order to create the upper part of a confessional, it's kind of a box and I've designed the angles of the box in order that they can be joined together just by the design.
+
+![](../images/proto/j1.png)
+
+![](../images/proto/j2.png)
 
 
 **MICRO CHALLENGE WEEK**
