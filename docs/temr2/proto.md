@@ -66,7 +66,10 @@ Then I used the laser cutting to cut plywood in order to create the upper part o
 ![](../images/proto/j2.png)
 
 
-**MICRO CHALLENGE WEEK**
+
+
+
+#MICRO CHALLENGE WEEK
 
 We wanna help people to communicate their ideas, opinion and experience about drugs without using the voice, by creating a tool that could help them speak without speaking. Why? Because sometimes seems hard to talk and express opinions about specific topics, if it feels like they are being denied by society and there's no enough freedom to bring the conversation to the table, and especially to share a personal experience, positive or negative an habit or even an addiction related to something illegal and usually misread.
 
@@ -97,6 +100,12 @@ So eventually each participant could feel like living in an open space where to 
 ![](../images/micro/final.jpg)
 
 ![](../images/micro/phone.jpg)
+
+
+
+
+*Self evaluation*
+This whole week was very important for the development of a project that's part of a bigger picture, of something that we're trying to bring out of IaaC's walls and show it outdoor in specific context. Having the opportunity to actually prototype something gave us the opportunity to face pros and limits of materials and techniques that we might used. This specific output is not going to evolve but it widened many ideas related to it. It was really challenging but satisfying to finally learning how to actually use machines in the FabLab and putting in practice the "learn by doing" method. I think we could have pushed our limits more and going a bit further, maybe exploring some programming and Arduino, I guess we'll leave time for that in the second Micro Challenge Week.
 
 
 
