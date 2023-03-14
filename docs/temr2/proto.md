@@ -109,6 +109,10 @@ First experiment with the 3d printer, modelled a volcano try with Rhino, embedde
 
 ![](../images/proto/rhino.png)
 
+![](../images/proto/p1.JPG)
+
+![](../images/proto/p2.JPG)
+
 
 
 
@@ -325,3 +329,7 @@ Fourth step: let's do thiiiiiiiiiiiiiiis. I have to say that this was way more c
 ![](../images/proto/elll.JPG)
 
 ![](../images/proto/el.JPG)
+
+![](../images/proto/d1.JPG)
+
+![](../images/proto/d2.JPG)
