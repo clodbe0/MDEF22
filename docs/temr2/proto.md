@@ -65,7 +65,7 @@ Then I used the laser cutting to cut plywood in order to create the upper part o
 
 ![](../images/proto/j2.png)
 
-
+![](../images/proto/jk.JPG)
 
 
 
