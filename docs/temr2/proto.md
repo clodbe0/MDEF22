@@ -127,7 +127,7 @@ First experiment with the 3d printer, modelled a volcano try with Rhino, embedde
 
 ![](../images/proto/p2.JPG)
 
-
+See the scanning **[here](https://vimeo.com/808271078)**
 
 
 #Communication between laptop
