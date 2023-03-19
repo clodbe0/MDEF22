@@ -43,8 +43,90 @@ And here's the first attempt on Womp, I have to say that I struggled a little wi
  Inputs and outputs. How to make a sensor and an actuator communicate with each other? With a LDS who's basically a resistor that reads the light in the room and then we can also use a normal LED to switch the light on and off.
  The morse code is needed to send data, information and command from LED to LDR.
 
+ How to connect a board with a light sensor that can print graphs and the second one with a LED and a button? Basically what's supposed to happen is that the sensor manages to read the LED light and give a response to that by printing messages.
+
  ![](../images/proto/morse.png)
 
+
+ How to connect a board with a light sensor that can print graphs and the second one with a LED and a button? Basically what's supposed to happen is that the sensor manages to read the LED light and give a response to that by printing messages.
+
+  ![](../images/proto/light.jpeg)
+
+```
+int R2 = 10000;
+float VIN = 3.0;
+
+unsigned long startTime = 0;
+unsigned long endTime = 0;
+unsigned long interval = 0;
+
+int ledState = 0;
+
+void setup() {
+ Serial.begin(9600);
+}
+
+
+
+void loop() {
+
+ // read the input on analog pin 0:
+ int sensorValue = analogRead(A3);
+
+ if (sensorValue > 1000) {
+   Serial.println("turn off the lights!");
+   delay(1000);
+ }
+
+ else {
+   Serial.println("lights off, checking for LED...");
+   if (sensorValue > 100 && ledState == 0)  //if the led turns on
+   {
+     ledState = 1;
+     Serial.println("the led turned on, I think!");
+     startTime = millis();
+     Serial.println("start time:");
+     Serial.println(startTime);
+
+     if (sensorValue < 100) {
+       endTime = millis();
+       Serial.println("end time: ");
+       Serial.println(endTime);
+       interval = endTime - startTime;
+       Serial.println("interval: ");
+       Serial.println(interval);
+
+       Serial.println("The LED is back off, I think!");
+       ledState = 0;
+       delay(1000);
+
+       if (interval < 1000) {
+         Serial.println("SHORT");
+         delay(1000);
+         interval = 0;
+       }
+
+       else {
+         Serial.println("LONG");
+         delay(1000);
+         interval = 0;
+       }
+     }
+   }
+   // Convert the analog reading (which goes from 0 - 1023) to a voltage (0 - 5V):
+   //float voltage = sensorValue * (3.0 / 1023.0);
+
+   // Get the value of R1
+   //int ldr = ((R2 * VIN) / voltage) - R2;
+
+   // print out the value you read:
+   //Serial.println(sensorValue);
+   //Serial.print("voltage: ");
+   //Serial.println(voltage);
+   //Serial.print("LDR value: ");
+   //Serial.println(ldr);
+ }
+```
 
 
 
@@ -69,7 +151,7 @@ Then I used the laser cutting to cut plywood in order to create the upper part o
 
 
 
-#MICRO CHALLENGE WEEK
+#MICRO CHALLENGE I
 
 We wanna help people to communicate their ideas, opinion and experience about drugs without using the voice, by creating a tool that could help them speak without speaking. Why? Because sometimes seems hard to talk and express opinions about specific topics, if it feels like they are being denied by society and there's no enough freedom to bring the conversation to the table, and especially to share a personal experience, positive or negative an habit or even an addiction related to something illegal and usually misread.
 
@@ -104,8 +186,11 @@ So eventually each participant could feel like living in an open space where to 
 
 
 
-*Self evaluation*
-This whole week was very important for the development of a project that's part of a bigger picture, of something that we're trying to bring out of IaaC's walls and show it outdoor in specific context. Having the opportunity to actually prototype something gave us the opportunity to face pros and limits of materials and techniques that we might used. This specific output is not going to evolve but it widened many ideas related to it. It was really challenging but satisfying to finally learning how to actually use machines in the FabLab and putting in practice the "learn by doing" method. I think we could have pushed our limits more and going a bit further, maybe exploring some programming and Arduino, I guess we'll leave time for that in the second Micro Challenge Week.
+*Self evaluation and reflection*
+This whole week was very important for the development of a project that's part of a bigger picture, of something that we're trying to bring out of IaaC's walls and show it outdoor in specific context.
+Having the opportunity to actually prototype something gave us the opportunity to face pros and limits of materials and techniques that we might used. We managed to get comfortable with many tools in the FabLab that before we didn't know how to deal with.
+This specific output is not going to evolve but it widened many ideas related to it. It was really challenging but satisfying to finally learning how to actually use machines in the FabLab and putting in practice the "learn by doing" method.
+I think we could have pushed our limits more and going a bit further, maybe exploring some programming with Arduino, I guess we'll leave time for that in the second Micro Challenge Week.
 
 
 
@@ -347,3 +432,6 @@ Fourth step: let's do thiiiiiiiiiiiiiiis. I have to say that this was way more c
 ![](../images/proto/d1.JPG)
 
 ![](../images/proto/d2.JPG)
+
+
+#MICRO CHALLENGE II
