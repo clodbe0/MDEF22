@@ -44,3 +44,7 @@ Reverse auction to distribute the available tools between the groups. We need Ar
 
 
 Check our work **[here](https://hackmd.io/wLNUaeyyR32BA8rWh7lFUg?both#First-experiments)**
+
+**Reflections**
+
+I think that working both on data collected by yourselves and the one that we analysed throughout Orange gave us the opportunity to find many critic points in the way we organised and approached the challenge. We lacked in organisation since the beginning because we started with a very broad topic, we should have focused on something less broad and made a more specific hypothesis we would have gained better results, especially in the data collected by Arduino cause we would have had more time to dedicate in collecting data. Same thing with Orange: if you feed it with a more selected range of data, it's easier to keep the focus on what you're looking for.
