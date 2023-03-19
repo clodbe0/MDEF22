@@ -653,7 +653,84 @@ For a bigger project, I&rsquo;m working on psychedelics graphics and now I&rsquo
 <p><strong>MORSE CODE</strong>
  Inputs and outputs. How to make a sensor and an actuator communicate with each other? With a LDS who&rsquo;s basically a resistor that reads the light in the room and then we can also use a normal LED to switch the light on and off.
  The morse code is needed to send data, information and command from LED to LDR.</p>
+<p>How to connect a board with a light sensor that can print graphs and the second one with a LED and a button? Basically what&rsquo;s supposed to happen is that the sensor manages to read the LED light and give a response to that by printing messages.</p>
 <p><img alt="" src="../../images/proto/morse.png" /></p>
+<p>How to connect a board with a light sensor that can print graphs and the second one with a LED and a button? Basically what&rsquo;s supposed to happen is that the sensor manages to read the LED light and give a response to that by printing messages.</p>
+<p><img alt="" src="../../images/proto/light.jpeg" /></p>
+<div class="highlight"><pre><span></span><code>int R2 = 10000;
+float VIN = 3.0;
+
+unsigned long startTime = 0;
+unsigned long endTime = 0;
+unsigned long interval = 0;
+
+int ledState = 0;
+
+void setup() {
+ Serial.begin(9600);
+}
+
+
+
+void loop() {
+
+ // read the input on analog pin 0:
+ int sensorValue = analogRead(A3);
+
+ if (sensorValue &gt; 1000) {
+   Serial.println(&quot;turn off the lights!&quot;);
+   delay(1000);
+ }
+
+ else {
+   Serial.println(&quot;lights off, checking for LED...&quot;);
+   if (sensorValue &gt; 100 &amp;&amp; ledState == 0)  //if the led turns on
+   {
+     ledState = 1;
+     Serial.println(&quot;the led turned on, I think!&quot;);
+     startTime = millis();
+     Serial.println(&quot;start time:&quot;);
+     Serial.println(startTime);
+
+     if (sensorValue &lt; 100) {
+       endTime = millis();
+       Serial.println(&quot;end time: &quot;);
+       Serial.println(endTime);
+       interval = endTime - startTime;
+       Serial.println(&quot;interval: &quot;);
+       Serial.println(interval);
+
+       Serial.println(&quot;The LED is back off, I think!&quot;);
+       ledState = 0;
+       delay(1000);
+
+       if (interval &lt; 1000) {
+         Serial.println(&quot;SHORT&quot;);
+         delay(1000);
+         interval = 0;
+       }
+
+       else {
+         Serial.println(&quot;LONG&quot;);
+         delay(1000);
+         interval = 0;
+       }
+     }
+   }
+   // Convert the analog reading (which goes from 0 - 1023) to a voltage (0 - 5V):
+   //float voltage = sensorValue * (3.0 / 1023.0);
+
+   // Get the value of R1
+   //int ldr = ((R2 * VIN) / voltage) - R2;
+
+   // print out the value you read:
+   //Serial.println(sensorValue);
+   //Serial.print(&quot;voltage: &quot;);
+   //Serial.println(voltage);
+   //Serial.print(&quot;LDR value: &quot;);
+   //Serial.println(ldr);
+ }
+</code></pre></div>
 <p><strong>LASER CUTTING</strong></p>
 <p>Exploring some laser cutting (and finally actually learning how to use the machine [almost independently]) first on cardboard to understand and explore, then on plywood and eventually on acrylic. It takes a lot of time but it&rsquo;s oddly satisfying to watch I have to admit.</p>
 <p><img alt="" src="../../images/proto/bv.JPG" /></p>
@@ -662,7 +739,7 @@ For a bigger project, I&rsquo;m working on psychedelics graphics and now I&rsquo
 <p><img alt="" src="../../images/proto/j1.png" /></p>
 <p><img alt="" src="../../images/proto/j2.png" /></p>
 <p><img alt="" src="../../images/proto/jk.JPG" /></p>
-<h1 id="micro-challenge-week">MICRO CHALLENGE WEEK<a class="headerlink" href="#micro-challenge-week" title="Permanent link">&para;</a></h1>
+<h1 id="micro-challenge-i">MICRO CHALLENGE I<a class="headerlink" href="#micro-challenge-i" title="Permanent link">&para;</a></h1>
 <p>We wanna help people to communicate their ideas, opinion and experience about drugs without using the voice, by creating a tool that could help them speak without speaking. Why? Because sometimes seems hard to talk and express opinions about specific topics, if it feels like they are being denied by society and there&rsquo;s no enough freedom to bring the conversation to the table, and especially to share a personal experience, positive or negative an habit or even an addiction related to something illegal and usually misread.</p>
 <p><img alt="" src="../../images/micro/b.png" /></p>
 <p>The lack of communication and dialogue in the topic brings a huge lack of awareness and information in the topic itself. Also, sharing can prevent other people’s harm.</p>
@@ -677,8 +754,11 @@ Using an augmented reality development package and ARKit, we then developed an a
 <p>So eventually each participant could feel like living in an open space where to share, even more intimate and private stuff related to drugs. This project is part of a wider project called DRUGS YOU BETTER KNOW that soon will try to participate to a Sonar open call for artistic and technological projects working at the intersection between art, technology, sciences, and society, aiming for ideas that see the development of AI, VR, AR. We&rsquo;re also developing a VR immersive experience to break walls of prejudice and conservatism to open dialogue and reduce drug harms at festivals.</p>
 <p><img alt="" src="../../images/micro/final.jpg" /></p>
 <p><img alt="" src="../../images/micro/phone.jpg" /></p>
-<p><em>Self evaluation</em>
-This whole week was very important for the development of a project that&rsquo;s part of a bigger picture, of something that we&rsquo;re trying to bring out of IaaC&rsquo;s walls and show it outdoor in specific context. Having the opportunity to actually prototype something gave us the opportunity to face pros and limits of materials and techniques that we might used. This specific output is not going to evolve but it widened many ideas related to it. It was really challenging but satisfying to finally learning how to actually use machines in the FabLab and putting in practice the &ldquo;learn by doing&rdquo; method. I think we could have pushed our limits more and going a bit further, maybe exploring some programming and Arduino, I guess we&rsquo;ll leave time for that in the second Micro Challenge Week.</p>
+<p><em>Self evaluation and reflection</em>
+This whole week was very important for the development of a project that&rsquo;s part of a bigger picture, of something that we&rsquo;re trying to bring out of IaaC&rsquo;s walls and show it outdoor in specific context.
+Having the opportunity to actually prototype something gave us the opportunity to face pros and limits of materials and techniques that we might used. We managed to get comfortable with many tools in the FabLab that before we didn&rsquo;t know how to deal with.
+This specific output is not going to evolve but it widened many ideas related to it. It was really challenging but satisfying to finally learning how to actually use machines in the FabLab and putting in practice the &ldquo;learn by doing&rdquo; method.
+I think we could have pushed our limits more and going a bit further, maybe exploring some programming with Arduino, I guess we&rsquo;ll leave time for that in the second Micro Challenge Week.</p>
 <p><strong>3D PRINTING</strong></p>
 <p>First experiment with the 3d printer, modelled a volcano try with Rhino, embedded it in Cura and finally 3D printed it. Took 1.5 hours.</p>
 <p><img alt="" src="../../images/proto/z.JPG" /></p>
@@ -864,6 +944,7 @@ void blink () {
 <p><img alt="" src="../../images/proto/el.JPG" /></p>
 <p><img alt="" src="../../images/proto/d1.JPG" /></p>
 <p><img alt="" src="../../images/proto/d2.JPG" /></p>
+<h1 id="micro-challenge-ii">MICRO CHALLENGE II<a class="headerlink" href="#micro-challenge-ii" title="Permanent link">&para;</a></h1>
                 
                   
                     
@@ -872,7 +953,7 @@ void blink () {
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 15, 2023</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 19, 2023</span>
     
   </small>
 </div>
