@@ -123,5 +123,64 @@ In conclusion, Beyond Drugs is a thought-provoking project that combines multipl
 
 
 
+**SECOND INTERVENTION**
 
-**Developments**
+Getting high on VR
+
+Mariana and I during our research part started digging down on possible alternatives to offer to people instead of doing drugs, and we ended up in many articles that talked about the concept of getting high on VR. We were particularly interested in the topic and decided to explore it in a first person perspective.
+We did some experiences like going to the Dalì Immersive Exhibition on Ideal, where part of it is a twelve minute virtual experience and it actually felt like being high, or we watched many many trippy video with the VR in order to reach that particular feeling of highness that we knew just by synthetic drugs.
+
+Getting high on VR is a thing.
+
+
+
+
+
+**FURTHER DEVELOPMENTS**
+
+What really gave a big push to the project was the decision to participate to Sonar Open Call for Designers at Sonar By Day.
+We decided to give it try. Unfortunately we didn’t get selected but it was still very helpful for a realistic development of the project.
+We collaborated with FabLab Barcelona and participated together.
+Unfolding Conversations offers a virtual reality experience that intersects multiple concepts, such as processes of protein unfolding and Huxley’s Doors of Perception, to shed light on the often taboo conversations surrounding recreational psychoactive consumption. The project aims to provide an inclusive and immersive experience to bring attention to the hidden dialogue within a confessional setting.
+
+Substance use at music festivals, dance clubs, and raves is a well-known fact, and the project does not intend to justify it. Instead, Unfolding Conversations focuses on creating a non-judgmental and open-minded environment that encourages pragmatic conversation around the use of psychoactive substances. To achieve this, the project uses interactive design and tools to gather data and personal experiences related to the topic. Unfolding Conversations increases dialogue around the topic, which can help reduce stigma and discrimination, mitigating harm.
+
+Our project is an ongoing collection of interactive experiences aimed to facilitate unbiased and open conversations. For this Open Call, we propose a virtual reality environment that complements our existing interactive installation: “The Confessional”. The final exhibition we hereby propose is an interactive installation which allows people to share their experiences with psychoactive substances, and a virtual reality environment that reinforces such a dialogue.
+
+**Part 1**: The Confessional - an interactive installation performed throughout Barcelona.
+
+The lack of communication and dialogue around psychoactive substances often leads to a lack of awareness and information around the topic. We believe that sharing personal experiences can be a valuable tool in preventing harm to other consumers. To promote communication and comfortability, we have created The Confessional - a personal and protected space where individuals can freely and anonymously narrate their personal experiences with psychoactive substances. The Confessional is made of plywood, making it lightweight and portable.
+All the stories shared in The Confessional will then be translated into a VR experience, which we aim to exhibit at Sonar+D.
+
+
+
+
+We recognize that the use of substances is both literary and personal, where one’s experience is only partially narrated by literature on a substance and its effects. Therefore, we believe that personal conversations are essential when discussing the topic. Unfolding Conversation thus aims to provide a safe space for people to share their experiences, creating a database of personal narratives which will be exhibited in subsequent installations. Through the power of storytelling, we hope to promote understanding, reduce stigma and discrimination, and create a more accepting and open attitude towards psychoactive substance consumption, especially in a music fest environment where people might be more keen to be involved in the topic, looking for further safety and comfort.
+
+Technologies:
+
+- Structure:  
+Pieces were modelled in Rhino and fabricated via laser cut and CNC (plywood). These technologies were facilitated by FabLab Barcelona and the Master in Design for Emergent Futures’ Staff.
+
+- Directional Microphone:
+A directional microphone will allow us to minimise unwanted background noise or interference when recording the personal experiences. This provides for minimal post-processing and cleaner audio data, increasing the animation precision of the audio2face animations.
+
+The Directional Microphone then became an iPad and an App that we developed.
+
+
+**Part 2**: A space to share. VR immersive experience.
+
+This is the second stage of our interactive series Unfolding Conversations, where we materialize the stories we have collected in the confessional via a virtual reality experience. Here we aim to unfold conversations on psychoactive substances and its widespread recreational consumption, guiding our users as follows:
+As users enter the virtual reality space, they are presented with a room filled with many doors. Each door represents the entrance to a different recreational substance, offering users a range of choices. Upon entering a particular door, the user is transported to a room filled with faces that narrate personal experiences related to the substance. These conversations allow users to explore the wide range of effects of the substance from the personal perspective of those who have experienced it.
+
+But Unfolding Conversations goes beyond mere dialogue. The room also includes the protein structures that receive the substance in our bodies. Users can see the unfolding of these proteins and understand how the substance interacts with their body at a molecular level. This experience provides a deeper understanding of the effects of the substance on the body and mind.
+The concept of Huxley’s Doors of Perception is also at play in Unfolding Conversations. By presenting users with the opportunity to experience different conversations in a safe and controlled virtual environment, the project challenges their preconceived notions of reality and expands their understanding of the world around them. Users are encouraged to confront the consequences of their actions and explore the consequences of their choices.
+
+
+In conclusion, Unfolding Conversations is a thought-provoking project that combines multiple concepts to bring to shore the hidden conversations around recreational use of substances. By using a physical installation and a VR immersive experience, we aim to present users with a safe and controlled environment to investigate the effects of different substances in an innovative manner. By challenging their preconceptions of the world around them, we invite users to gain a different perspective on the impact of substance intake on both their mind and body.
+
+
+
+**THIRD INTERVENTION**
+
+As a third intervention we were planning to participate to Mostra Festival in Hangar on April the 6th and 7th, to exhibit The Confessional in  order to gather more experiences, but unfortunately both me and Mariana were sick after the Research trip to El Hierro so we didn’t make it there either. The only context were we actually used The Confessional was during the Design Dialogues II and we gathered some experiences by the people who decided to share.
