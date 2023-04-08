@@ -71,6 +71,19 @@ Depending on the environment that will be available, we will adapt the board: ph
 
 
 
+**FIRST INTERVENTION**
+
+As a first intervention we decided to listen to the voice of Barcelona people. We wanted to be down to earth and just see how people reacted to the simple question of asking them to share their experiences about drugs.
+We came up with a simple but effective concept: a captivating and appealing sticker to put in target areas, like bathrooms of clubs, bars etc... with a simple question and a QR code that leads to a Google Form where people can anonymously write about some experiences that happened under the effect of drugs.
+
+We received many stories, it was very satisfying realising that people are open to share.
+
+![](../images/drugs/ab copy.png)
+![](../images/drugs/abc.jpeg)
+
+
+
+
 **Developments**
 
 The project is changing and evolving each week. Now it even changed name and became **BEYOND DRUGS**.
@@ -103,3 +116,12 @@ But Beyond Drugs goes beyond mere dialogue. The room also includes the protein s
 The concept of Huxley's Doors of Perception is also at play in Beyond Drugs. By presenting users with the opportunity to experience different recreational drugs in a safe and controlled virtual environment, the project challenges their preconceived notions of reality and expands their understanding of the world around them. Users are forced to confront the consequences of their actions and explore the consequences of their choices.
 
 In conclusion, Beyond Drugs is a thought-provoking project that combines multiple concepts to bring to shore the hidden conversations around recreational drugs. By using virtual reality to present users with a safe and controlled environment to explore the effects of different drugs, the project challenges their preconceptions and expands their understanding of the world around them. Through the immersive experience, users gain a deeper appreciation of the unfolding of proteins, the Doors of Perception, and the impact of their choices on their mind and body.
+
+![](../images/drugs/1a.jpeg)
+
+![](../images/drugs/1b.jpeg)
+
+
+
+
+**Developments**
