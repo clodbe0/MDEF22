@@ -147,6 +147,9 @@ Substance use at music festivals, dance clubs, and raves is a well-known fact, a
 
 Our project is an ongoing collection of interactive experiences aimed to facilitate unbiased and open conversations. For this Open Call, we propose a virtual reality environment that complements our existing interactive installation: “The Confessional”. The final exhibition we hereby propose is an interactive installation which allows people to share their experiences with psychoactive substances, and a virtual reality environment that reinforces such a dialogue.
 
+
+
+
 **Part 1**: The Confessional - an interactive installation performed throughout Barcelona.
 
 The lack of communication and dialogue around psychoactive substances often leads to a lack of awareness and information around the topic. We believe that sharing personal experiences can be a valuable tool in preventing harm to other consumers. To promote communication and comfortability, we have created The Confessional - a personal and protected space where individuals can freely and anonymously narrate their personal experiences with psychoactive substances. The Confessional is made of plywood, making it lightweight and portable.
@@ -167,6 +170,8 @@ A directional microphone will allow us to minimise unwanted background noise or 
 
 The Directional Microphone then became an iPad and an App that we developed.
 
+![](../images/drugs/f copy.png)
+
 
 **Part 2**: A space to share. VR immersive experience.
 
@@ -179,8 +184,15 @@ The concept of Huxley’s Doors of Perception is also at play in Unfolding Conve
 
 In conclusion, Unfolding Conversations is a thought-provoking project that combines multiple concepts to bring to shore the hidden conversations around recreational use of substances. By using a physical installation and a VR immersive experience, we aim to present users with a safe and controlled environment to investigate the effects of different substances in an innovative manner. By challenging their preconceptions of the world around them, we invite users to gain a different perspective on the impact of substance intake on both their mind and body.
 
+![](../images/drugs/face.png)
+
+![](../images/drugs/space.png)
+
+
 
 
 **THIRD INTERVENTION**
 
 As a third intervention we were planning to participate to Mostra Festival in Hangar on April the 6th and 7th, to exhibit The Confessional in  order to gather more experiences, but unfortunately both me and Mariana were sick after the Research trip to El Hierro so we didn’t make it there either. The only context were we actually used The Confessional was during the Design Dialogues II and we gathered some experiences by the people who decided to share.
+
+![](../images/drugs/ddi.JPG)
