@@ -40,6 +40,6 @@ To me the most interesting part was pointing out also all the negative aspects o
 We started talking while writing and painting with coffee on a big paper, and I think that the combination between thoughts and art really help the flow of reflection.
 
 *Interactions*
-We managed not to interact just with our group, but during the whole class the went through different exercises that created connection between us, like the drawing exercises that I particularly enjoyed. 
+We managed not to interact just with our group, but during the whole class the went through different exercises that created connection between us, like the drawing exercises that I particularly enjoyed.
 
 ![](../images/dd/coffe.JPG)
