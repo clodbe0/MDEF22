@@ -196,3 +196,9 @@ In conclusion, Unfolding Conversations is a thought-provoking project that combi
 As a third intervention we were planning to participate to Mostra Festival in Hangar on April the 6th and 7th, to exhibit The Confessional in  order to gather more experiences, but unfortunately both me and Mariana were sick after the Research trip to El Hierro so we didn’t make it there either. The only context were we actually used The Confessional was during the Design Dialogues II and we gathered some experiences by the people who decided to share.
 
 ![](../images/drugs/ddi.JPG)
+
+
+
+
+
+https://www.artsy.net/artwork/carsten-holler-pill-clock
