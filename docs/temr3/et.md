@@ -68,3 +68,19 @@ design: how? with whom?
 usage: how?
 
 effects: unintended, unexpected, undesired?
+
+
+
+Now design has a very problem solving mindset, modifying the shape of our life. Any challenge is seemed as a problem to be solved. We also saw nature as a resource and as a problem and we tried to fix it.
+
+
+
+Design decisions:
+
+- Do our project moralise implicitly or explicitly? How?
+
+- What values are we inscribing / we want to inscribe in the design? What are the value tensions that emerge?
+
+- How are these tensions mitigated?
+
+- How are the values materialised into a design? 
