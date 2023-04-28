@@ -83,4 +83,36 @@ Design decisions:
 
 - How are these tensions mitigated?
 
-- How are the values materialised into a design? 
+- How are the values materialised into a design?
+
+
+
+28/04
+**Technology responds to social forces**
+
+#The normative dimension of design
+
+Normative: when its basic use is prescribing norms or standards explicitly or implicitly. It's present in deign.
+"Design is concerned with how things ought to be2 by Herbert Simon in 1996. This means that design is a normative tool. When we're designing we have an implicit idea of the good, of what is correct, of how things should be.
+Design materialises notions of the good and the right.
+
+Design seeks to influence behaviour in a particular way and that's why design is ethically relevant.
+Ethic is a world with many meanings around morality and moral decisions. It is understood to answer questions like what should I do or what's the right thing to do? But then a whole different question is "what is good" which is not related to what is right. What does come first? The right or the good?
+Ethics is about how we should live and the meaning of a good life but also it's about who we want to be.
+
+Western approaches:
+Deontology: ethics of principles and rules. Inspired in the Bible.
+
+Care ethics: good or bad, right or wrong are to be evaluated in how they support relations. It's a relational ethics that involved caring for another.
+
+Is design even a profession?
+
+Professions are a moral projects, it's not just about getting paid or doing the job well. This is not the goal. A good profession involves a commitment to something that is important.
+Design as a profession, what's design's purpose, what is design about?
+dismantle structural inequality and advance collective liberation and ecological survival (Design Justice, Sasha Costanza Chock) but this is not specific enough, this can be for any profession.
+Papanek says that everything is design.
+Ezio Manzini in When Everybody Design says that designer are there to support a process and not to say what to do, so to trigger and support open ended co design processes, but also this thought can be applied to very negative and non ethics purposes.
+
+It is extending other's possibilities, potentialities and capabilities through the conceiving and planning of the human made world.
+
+What are capabilities? Answers to questions / genuine opportunity to achieve a functioning, an actual freedom to live the kind of life a person has reason to value. 
