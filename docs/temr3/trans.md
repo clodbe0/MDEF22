@@ -49,4 +49,6 @@ Not focused on what is known but on how it is known
 - epistemic conditions: communities / place based knowledge
 
 
-case study: Mary Maggic https://maggic.ooo
+case study:
+Mary Maggic https://maggic.ooo
+Becoming_plant
