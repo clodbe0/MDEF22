@@ -36,6 +36,17 @@ being aware of our privileges and how inequalities are still present on our stru
 There are way to decolonize to work on future narratives.
 
 **Epistemic violence**: for instance having a class about decolonisation from a euro white (sorry Laura don't take it personally it's just the example!)
+
 "... it's a failure of an audience to communicatively, reciprocate, either intentionally or unintentionally, in linguistic exchanges. owning to pernicious ignorance. Pernicious ignorance is a reliable ignorance or. a counterfactual incompetence that, in a given context, is harmful."
 
 Being aware that performing epistemic violence shouldn't be a limit of no operation / no possibility to operate but also being aware of contradictions and deal with them in order to open some critic.
+
+
+There are no universal rules methods methodologies
+Not focused on what is known but on how it is known
+- situated knower: complex interdependent socio nature culture systems
+- situated knowledge: critical cultural analysis
+- epistemic conditions: communities / place based knowledge
+
+
+case study: Mary Maggic https://maggic.ooo
