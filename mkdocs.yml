@@ -42,6 +42,7 @@ nav:
 
 
       - Term 3:
+          - Design Studio III: docs/temr3/studio.md
           - Distributed Design: temr3/dds.md
           - Prototyping for Design: temr3/proto3.md
           - Design Ethics: temr3/et.md
