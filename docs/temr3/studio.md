@@ -17,7 +17,7 @@ P.S. Unfolding Conversations is still work in progress!
 - Working opportunities: deciding to submit the application to Sonar helped us to push
 the project further and to work with a lot of effort on it, also jumping on stuff that we didn’t know before and so developing new skills; on the other hand, being rejected was a punch in the face, especially after all the effort. We were hoping to give life to Unfolding Conversations and show it to a wide public but, for now, this won’t happen. Facing this limit is challenging but also educating.
 
-LOOKING FORWARD
+**LOOKING FORWARD**
 Mariana and I will keep work on it. The time off in El Hierro helped us to clear off our thoughts about it and now we have more ideas that we will try to develop.
 I guess that my identity changed in a way
 that managed to adapt to many different challenges and opportunities, and this made even more clear who I want to be as a designer, what I want to focus on and what I seek for myself as a person and my career.
@@ -32,7 +32,24 @@ Throughout our third intervention we manage to create a collective, but personal
 Also the stickers around the city connected to the Google Form was a way to break a wall, increase the dialogue, have people feel comfortable with sharing personal experiences.
 These processes are the first part of our strategy for creating Alternative Presents: we first gathered data, engaged with people, saw and studied reactions, to be more aware on how to move further.
 
-Engaging with the citizens of Barcelona is still part of the next steps of our project. Since that the topic is radical, not often spoken about and might be also disturbing for some people, we decided to surf the wave and focus on two specifi ways of engagement:
+Engaging with the citizens of Barcelona is still part of the next steps of our project. Since that the topic is radical, not often spoken about and might be also disturbing for some people, we decided to surf the wave and focus on two specific ways of engagement:
 - Base our actions on data: this approach can allow us to be objective and honest and drug assumption.
 - Guerrilla marketing: we don’t want to hurst the sensibility of no one, so we thought that guerilla might be a good solution for us,
 as it leaves to people the freedom and the decision to approach the topic, or to leave if not interested. This also automatically create an audience, and then a community, of people actually interested and that want to be involved.
+
+
+
+
+# A new perspective
+
+A new collaboration is born and it's taking the project to a new development, still connected with sharing / inner world / giving space / personalise but using the body as a medium...
+
+
+
+THE CONCEPT
+
+Talking about emotions it's a task that can be hard to achieve. Digging inside of ourselves and explore our inner feelings needs a lot of efforts and self awareness + support from others.
+What if we had a way to visualise emotions with shapes and colours? See how they move around, how they interact with time and space and mostly, for once, seeing them outside of our body without speaking?
+There's no need to explain, sometimes just an overview can help to reconnect with ourselves.
+
+![](../images/myfight/new.png)
