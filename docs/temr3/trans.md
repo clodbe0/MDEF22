@@ -50,5 +50,19 @@ Not focused on what is known but on how it is known
 
 
 case study:
-Mary Maggic https://maggic.ooo
-Becoming_plant
+- Mary Maggic https://maggic.ooo
+- Becoming_plant
+- Transfeminism_resistance - the movement understands gender as a system of power that produces, controls and limits bodies in order to adapt them to the established social order, aiming to modify, expand and alters the code who governs social constructions.
+- Power makes us sick - experimental research on autonomous health, different approaches to open health.
+- Bio Paranoya
+- Aqua_forensic, general open conception of citizen who inhabit a territory beyond their legal status.
+
+
+When we are collaborating, doing research we have to ask ourselves **who is missing in this space?** - we tend to forget the importance of the ones who are not there, giving importance to the absences because it gives informations to accessibilities, privileges and so on...
+What is toxic? / What is pure? / Illusion of pureness that affects specific conception that we may have as societies on pureness and purity used in scientific institutions. Purity comes from Catholicism colonialism and was pushed to nature as uncontaminated and not touched by human because the settlers were taking control of the human being living in nature - corruption because of power.
+For whom did you research today? Very good question when we are working in a collaborative experimental space.
+
+#Symbiotic interdependence
+
+What's utopian or distopian? How relative and subjective is the concept?
+To watch: Utopia tv serie. 

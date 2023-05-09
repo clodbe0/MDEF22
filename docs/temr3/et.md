@@ -93,7 +93,7 @@ Design decisions:
 #The normative dimension of design
 
 Normative: when its basic use is prescribing norms or standards explicitly or implicitly. It's present in deign.
-"Design is concerned with how things ought to be2 by Herbert Simon in 1996. This means that design is a normative tool. When we're designing we have an implicit idea of the good, of what is correct, of how things should be.
+"Design is concerned with how things ought to be" by Herbert Simon in 1996. This means that design is a normative tool. When we're designing we have an implicit idea of the good, of what is correct, of how things should be.
 Design materialises notions of the good and the right.
 
 Design seeks to influence behaviour in a particular way and that's why design is ethically relevant.
@@ -115,4 +115,4 @@ Ezio Manzini in When Everybody Design says that designer are there to support a 
 
 It is extending other's possibilities, potentialities and capabilities through the conceiving and planning of the human made world.
 
-What are capabilities? Answers to questions / genuine opportunity to achieve a functioning, an actual freedom to live the kind of life a person has reason to value. 
+What are capabilities? Answers to questions / genuine opportunity to achieve a functioning, an actual freedom to live the kind of life a person has reason to value.
