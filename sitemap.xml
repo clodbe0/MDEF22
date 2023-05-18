@@ -111,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fablabbcn.github.io/mdef-template/temr3/auto/</loc>
+         <lastmod>2023-05-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fablabbcn.github.io/mdef-template/temr3/dds/</loc>
          <lastmod>2023-05-18</lastmod>
          <changefreq>daily</changefreq>

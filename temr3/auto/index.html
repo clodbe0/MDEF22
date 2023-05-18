@@ -11,7 +11,7 @@
         <meta name="description" content="Master in Design for Emergent Futures">
       
       
-        <link rel="canonical" href="https://fablabbcn.github.io/mdef-template/temr3/proto3/">
+        <link rel="canonical" href="https://fablabbcn.github.io/mdef-template/temr3/auto/">
       
       
         <meta name="author" content="Claudia Bertoletti">
@@ -21,7 +21,7 @@
     
     
       
-        <title>Prototyping for Design - Claudia Bertoletti - MDEF & Fab Lab Barcelona</title>
+        <title>Decentralized autonomous organizations - Claudia Bertoletti - MDEF & Fab Lab Barcelona</title>
       
     
     
@@ -68,7 +68,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#prototyping-for-design" class="md-skip">
+        <a href="#decentralized-autonomous-organizations" class="md-skip">
           Skip to content
         </a>
       
@@ -96,7 +96,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Prototyping for Design
+              Decentralized autonomous organizations
             
           </span>
         </div>
@@ -634,20 +634,11 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-    <a href="./" title="Prototyping for Design" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../proto3/" title="Prototyping for Design" class="md-nav__link">
       Prototyping for Design
     </a>
-    
   </li>
 
         
@@ -679,11 +670,20 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../auto/" title="Decentralized autonomous organizations" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Decentralized autonomous organizations" class="md-nav__link md-nav__link--active">
       Decentralized autonomous organizations
     </a>
+    
   </li>
 
         
@@ -724,7 +724,7 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/fablabbcn/mdef-template/edit/master/docs/temr3/proto3.md" title="Edit this page" class="md-content__button md-icon">
+                  <a href="https://github.com/fablabbcn/mdef-template/edit/master/docs/temr3/auto.md" title="Edit this page" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
@@ -732,86 +732,7 @@
                   
                 
                 
-                <h1 id="prototyping-for-design">Prototyping for Design<a class="headerlink" href="#prototyping-for-design" title="Permanent link">&para;</a></h1>
-<p><strong>ROBOT</strong>
-Both theoretical and practical aspect about using a Robot. Completely new topic for me.
-A robot works in linear and in joint-movements.
-IaaC robot works in 7 dimensions.</p>
-<p><img alt="" src="../../images/robot/robots.png" /></p>
-<p><img alt="" src="../../images/robot/roboticaxis.png" /></p>
-<h1 id="blender">BLENDER<a class="headerlink" href="#blender" title="Permanent link">&para;</a></h1>
-<p>Why using Blender? This is how the class started. The point that I agree the most with is that blender is built by a community and that&rsquo;s why it has more potential, and also I think it has an horizontal communication and accessibility.
-Also, in Blender the priority is the design, not the profit and not just the design that we create but also the possibility to shape the design of the tool itself.
-Victor introduced us to Roosendaal, I knew the studio before but I didn&rsquo;t know about the fact that he started and released Blender.
-When the propaganda was over (just kidding, it was a great ethical introduction on the software) we were introduced to the interface, the system, the properties and the personalisation (a complete new topic for me since that I&rsquo;m used to Adobe&hellip;)</p>
-<p><strong>Playing with Suzanne</strong>
-<img alt="" src="../../images/robot/suzanne.png" /></p>
-<p><strong>Phyton and Blender</strong>
-First we connected one phone to blender in order to rotate Suzanne, poor monkey, by the movement of our phones. The signal was sent by wifi connection.
-the code for making suzanne rotating by rotating the (andrid)phone. Important is to change the host and prt accrdingly.</p>
-<p>import bpy
-import socket</p>
-<h1 id="setup-udp-socket">Setup UDP socket<a class="headerlink" href="#setup-udp-socket" title="Permanent link">&para;</a></h1>
-<p>host = &lsquo;192.168.0.12&rsquo; # The same address of your computer
-port = 5555
-s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-s.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
-s.bind((host, port))
-s.settimeout(1)</p>
-<h1 id="receive-data">Receive data<a class="headerlink" href="#receive-data" title="Permanent link">&para;</a></h1>
-<p>try:
-    message, address = self.s.recvfrom(8192)</p>
-<div class="codehilite"><pre><span></span><code># Check if the data is complete (sometimes the app sends only some of the sensors)
-if len(message.split(b&#39;,&#39;)) == 17:
-
-x = float(message.split(b&#39;,&#39;)[-2]) * 0.01745
-y = float(message.split(b&#39;,&#39;)[-1]) * 0.01745
-z = float(message.split(b&#39;,&#39;)[-3]) * 0.01745
-# print(x,y,z)
-
-context.object.rotation_euler.x = x
-context.object.rotation_euler.y = y
-context.object.rotation_euler.z = z
-</code></pre></div>
-
-<p>except:
-    # Stop if no more data is received
-    self.cancel(context)
-    return {&lsquo;CANCELLED&rsquo;}</p>
-<p>def execute(self, context):
-        wm = context.window_manager
-        self._timer = wm.event_timer_add(0.001, window=context.window)
-        wm.modal_handler_add(self)
-        return {&lsquo;RUNNING_MODAL&rsquo;}</p>
-<p>Then we also used Arduino in order to give light to a LED string:</p>
-<h1 id="include">include <Adafruit_NeoPixel.h><a class="headerlink" href="#include" title="Permanent link">&para;</a></h1>
-<h1 id="define-pin-12">define PIN 12<a class="headerlink" href="#define-pin-12" title="Permanent link">&para;</a></h1>
-<h1 id="define-numpixels-60">define NUMPIXELS 60<a class="headerlink" href="#define-numpixels-60" title="Permanent link">&para;</a></h1>
-<p>Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);</p>
-<p>int value = 0;</p>
-<p>void setup() {
-  Serial.begin(115200);
-  pixels.begin();
-}</p>
-<p>void loop() {</p>
-<p>if (Serial.available()) value = Serial.parseInt();
-  while (Serial.available()) Serial.read();</p>
-<p>for(int i=0; i&lt;NUMPIXELS; i++) {
-    if (i == value) {
-       pixels.setPixelColor(i, pixels.Color(0, 250, 0));
-    } else if (abs(i - value) == 1) {
-       pixels.setPixelColor(i, pixels.Color(0,15, 0));
-    } else if (abs(i - value) == 2) {
-       pixels.setPixelColor(i, pixels.Color(0, 1, 0));
-    } else {
-       pixels.setPixelColor(i, pixels.Color(0, 0, 0));
-    }
-    pixels.show();
-  }</p>
-<p>delay(20);
-}</p>
-<p><img alt="" src="../../images/robot/stel.JPG" /></p>
+                <h1 id="decentralized-autonomous-organizations">Decentralized autonomous organizations<a class="headerlink" href="#decentralized-autonomous-organizations" title="Permanent link">&para;</a></h1>
                 
                   
                     
@@ -843,7 +764,7 @@ context.object.rotation_euler.z = z
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../dds/" title="Distributed Design" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../trans/" title="Critical Transfeminist Design" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
             </div>
@@ -852,25 +773,11 @@ context.object.rotation_euler.z = z
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Distributed Design
+                Critical Transfeminist Design
               </div>
             </div>
           </a>
         
-        
-          <a href="../et/" title="Design Ethics" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-footer-nav__title">
-              <div class="md-ellipsis">
-                <span class="md-footer-nav__direction">
-                  Next
-                </span>
-                Design Ethics
-              </div>
-            </div>
-            <div class="md-footer-nav__button md-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
-            </div>
-          </a>
         
       </nav>
     </div>
