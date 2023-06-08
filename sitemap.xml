@@ -81,12 +81,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fablabbcn.github.io/mdef-template/temr1/designstudio1/</loc>
+         <lastmod>2023-06-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fablabbcn.github.io/mdef-template/temr2/billion/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/temr2/data/</loc>
+         <lastmod>2023-06-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/temr2/designstudio/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
