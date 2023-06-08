@@ -23,6 +23,7 @@ nav:
 
   - Reflections :
       - Term 1:
+          - Design Studio I: temr1/designstudio1.md
           - Bootcamp: temr1/00-Bootcamp.md
           - AoWS: temr1/01-Atlas of Weak Signals.md
           - Bio&Agri zero: temr1/02-Bio&Agri Zero.md
@@ -33,6 +34,7 @@ nav:
 
 
       - Term 2:
+          - Design Studio II: temr2/designstudio.md
           - Next Billion Seconds: temr2/billion.md
           - Remixing Materials: temr2/remix.md
           - Prototyping for Design: temr2/proto.md
