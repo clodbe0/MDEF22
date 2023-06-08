@@ -7,23 +7,34 @@ hide:
 
 #Design Studio III
 
-**Reflections**
+#Bridging gaps
+Bridging the gap
+Unfolding Converstation started shifting, evolving and changing thanks to a further collaboration, with Antonio.
+We noticed that even with different outputs we had strong mutual concepts in our projects and decided to team up for the final term.
+The main focus is still in powerful medium to engage and connect with people on an emotional and intellectual level. Through the integration of design, technology, and artistic expression, we sought to provoke introspection, promote dialogue, and encourage a deeper understanding of the multifaceted nature of human beings and health.
+The aim of bridging the gap between the seen and the unseen, making invisible aspects visible to the public eye was a strong mutual aspect of our teams. By presenting the data in a visually compelling and accessible manner, we aimed to challenge preconceived notions, spark conversations, and encourage a more nuanced understanding of the complexities.
+We started merging interests by finding innovative ways to communicate the collected data and personal experiences effectively. Where we decided to put effort on was the lack of ability to capture the complexity and emotional depth of data in traditional modes of presenting information, such as charts and graphs, might not.
+This realization sparked the exploration of Heart Rate Variability (HRV) techniques as a means to bridge the gap between raw data and meaningful understanding.
+HRV data visualization goes beyond conventional data representation by transforming abstract information into visually compelling and relatable forms. We saw this as an opportunity to create a more engaging and immersive experience for viewers, enabling them to connect with the data on a deeper level.
+Our overlapping interests in mental and physical health, coupled with a holistic perspective on wellness, led to an enlightening discourse. We delved into the inherent wisdom of our bodies, their constant expression of emotion, and the importance of heeding these signals. It dawned upon us that honoring our bodies’ desires is paramount for leading a life imbued with wellness.
+Driven by this realization, we ventured into prototyping a biofeedback device. The device’s primary function is to facilitate the comprehension of data transmitted by our nervous systems. This understanding equips individuals with tools designed to enhance wellbeing.
+We dared to imagine: What if we could decode and visualize the expressions of our nervous systems? Could such insights enable us to modulate our bodily states and the way our minds perceive existence?
+To bring this vision to life, we decided to build
+a model that visualizes Heart Rate Variability (HRV). HRV refers to the fluctuations in the time intervals between consecutive heartbeats.
+These intervals consistently change, reflecting the balance or imbalance of the nervous system.
+Our aspiration was simple: If we could provide a real-time visualization of HRV, could individuals learn to achieve balance? To that end, we started collecting heart rate data through ECG sensors, calculated the HRV of users, and visualized this information in an interactive and engaging manner. Our goal was to guide users to better understand their bodily states, empowering them to steer towards states that yield greater benefits.
+At its core, HRV analysis aims to evaluate
+an individual’s physiological state. It
+provides insights into the functioning of
+their autonomic nervous system, stress
+levels, and overall health. This method has found widespread applications in medical
+and research settings, sports science, and other fields where the essence of objective measurements and data-driven analysis is held in high esteem.
 
-The last term, which in a way felt very short because I found myself with many things to work on, was very sperimental (finally hands on!) and got me to the point of facing reality in multiples ways:
-- Nothing is still, everything keeps evolving:
-for the first time I worked as almost a full
-time job on a project, and I was surprised by the fact that every time that we felt that we arrived somewhere, everything was changing again: us, our ideas, the project itself. Unfolding Conversations evolved day by day and us with it. Sometimes this process was frustrating because it never gave us time to rest, on the other hand it was really satisfying to face all this issues and, in a way or another, always sorting them out.
-P.S. Unfolding Conversations is still work in progress!
-- Working opportunities: deciding to submit the application to Sonar helped us to push
-the project further and to work with a lot of effort on it, also jumping on stuff that we didn’t know before and so developing new skills; on the other hand, being rejected was a punch in the face, especially after all the effort. We were hoping to give life to Unfolding Conversations and show it to a wide public but, for now, this won’t happen. Facing this limit is challenging but also educating.
-
-**LOOKING FORWARD**
-Mariana and I will keep work on it. The time off in El Hierro helped us to clear off our thoughts about it and now we have more ideas that we will try to develop.
-I guess that my identity changed in a way
-that managed to adapt to many different challenges and opportunities, and this made even more clear who I want to be as a designer, what I want to focus on and what I seek for myself as a person and my career.
-I want to keep work on social issues, related to the context that I’m living in, in order to face with a first person perspective and then explore it throughout autoethnographic research and radical situatedness.
-I want to be active participant.
-
+Our ultimate aim is to attain a state of equilibrium and flow. This is possible by aligning ourselves with our internal wisdom and responding attentively to the signals our bodies dispatch.
+We propose the adoption of biohacking techniques geared towards optimizing our nervous system. This process focuses on cultivating a sense of relaxation instead of perpetually staying on high alert, thereby enhancing our wellbeing.
+Resonance frequency breathing is an effective method that allows us to achieve this balance. It involves harmonizing our breathing with our heart rate, leading to a state referred to as coherence. Coherence directly amplifies heart rate variability (HRV), paving the way towards the desired state of flow and equilibrium.
+Through the application of this biofeedback technique, we can make more informed decisions concerning our overall wellbeing. HRV data analysis traditionally revolves around algorithmic measurements, primarily neglecting the emotional or empathetic aspects. The analysis process deploys mathematical algorithms, statistical methodologies, and scientifically accepted guidelines to derive significant information from the collected data.
+Nevertheless, our aspiration extends beyond these conventional methods. We intend to integrate HRV analysis with visual art, aiming to obtain a more exhaustive, accessible, and holistic understanding of an individual’s emotional and empathetic state.
 
 ![](../images/proto/studio3.pdf)
 
