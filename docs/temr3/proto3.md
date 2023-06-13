@@ -26,6 +26,17 @@ When the propaganda was over (just kidding, it was a great ethical introduction 
 **Playing with Suzanne**
 ![](../images/robot/suzanne.png)
 
+
+#LIVE CODING AS HUMAN INTERFACES
+with Xavi Domínguez
+
+I really enjoyed this class because they managed to explain hard topic with the comparison with music. And they even suggested to go check a live coding party that was amazing!
+
+https://github.com/hydra-synth/hydra
+
+We tested Hydra to understand and test coding language: it's a javascript based coding video, to make it simple that helps to visualize easily the coding, live.
+![](../images/robot/hydra.png)
+
 **Phyton and Blender**
 First we connected one phone to blender in order to rotate Suzanne, poor monkey, by the movement of our phones. The signal was sent by wifi connection.
 the code for making suzanne rotating by rotating the (andrid)phone. Important is to change the host and prt accrdingly.
@@ -110,16 +121,3 @@ void loop() {
 }
 
 ![](../images/robot/stel.JPG)
-
-
-
-
-#LIVE CODING AS HUMAN INTERFACES
-with Xavi Domínguez
-
-I really enjoyed this class because they managed to explain hard topic with the comparison with music. And they even suggested to go check a live coding party that was amazing!
-
-https://github.com/hydra-synth/hydra
-
-We tested Hydra to understand and test coding language: it's a javascript based coding video, to make it simple that helps to visualize easily the coding, live.
-![](../images/robot/hydra.png)
