@@ -110,3 +110,16 @@ void loop() {
 }
 
 ![](../images/robot/stel.JPG)
+
+
+
+
+#LIVE CODING AS HUMAN INTERFACES
+with Xavi Domínguez
+
+I really enjoyed this class because they managed to explain hard topic with the comparison with music. And they even suggested to go check a live coding party that was amazing!
+
+https://github.com/hydra-synth/hydra
+
+We tested Hydra to understand and test coding language: it's a javascript based coding video, to make it simple that helps to visualize easily the coding, live.
+![](../images/robot/hydra.png)
