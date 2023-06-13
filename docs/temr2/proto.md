@@ -192,6 +192,9 @@ Having the opportunity to actually prototype something gave us the opportunity t
 This specific output is not going to evolve but it widened many ideas related to it. It was really challenging but satisfying to finally learning how to actually use machines in the FabLab and putting in practice the "learn by doing" method.
 I think we could have pushed our limits more and going a bit further, maybe exploring some programming with Arduino, I guess we'll leave time for that in the second Micro Challenge Week.
 
+**Networking**
+The concept of network was introduced by Victor in class. Networking revolves around the concept of duplication, enabling the exchange of information among individuals. Networks have emerged as a means to transport information from one location to another, essentially accomplishing the same objective simultaneously through multiple copies.
+Victor also introduced us to the historical significance of networks and their connection to contemporary communication platforms like WhatsApp.
 
 
 **3D PRINTING**
@@ -230,7 +233,141 @@ Throughout the Wifi broadcasting and the ESP32 feather, we typed messages on Ard
 
 
 
-**BLINKING LED**
+**BLINKING together**
+
+With all the featherboards connected to the Wifi we blinked over the network.
+
+#include "jled.h"
+#define LED_PIN 14
+
+// New code for MQTT!
+//-------------------
+#include <WiFi.h>
+#include <PubSubClient.h>
+
+const char* ssid = "Iaac-Wifi";
+const char* password = "EnterIaac22@";
+WiFiClient wifiClient;
+
+const char* mqttBroker = "mqtt-staging.smartcitizen.me";
+const char* mqttClientName = "s&c";
+const char* mqttClientUser = "fablabbcn102";
+const char* mqttClientPass = "";
+const char* topicToSub = "lab";
+// const char* topicToPub = "lab";
+PubSubClient mqttClient(wifiClient);
+//-------------------
+
+// Jled object.
+// More information here: https://github.com/jandelgado/jled#usage
+JLed led = JLed(LED_PIN);
+
+//-------------------
+// Add more animations here!
+// Basic blink
+void blink () {
+  led.Blink(1000, 600).Repeat(3);
+}
+
+// Smooth breathing
+void breathe() {
+  led.Breathe(1000).Repeat(3);
+}
+//-------------------
+
+void mqttConnect() {
+
+  while (!mqttClient.connected()) {
+
+    Serial.print("Attempting MQTT connection...");
+
+    if (mqttClient.connect(mqttClientName, mqttClientUser, mqttClientPass)) {
+
+      Serial.println("connected");
+      mqttClient.publish("hello", mqttClientName);
+
+      // Topic(s) subscription
+      mqttClient.subscribe(topicToSub);
+
+    } else {
+
+      Serial.print("failed, rc=");
+      Serial.print(mqttClient.state());
+      Serial.println(" try again in 5 seconds");
+      delay(5000);
+
+    }
+  }
+}
+
+void callback(char* topic, byte* message, unsigned int length) {
+
+  String newMsg;
+
+  for (int i = 0; i < length; i++) {
+    newMsg += (char)message[i];
+  }
+
+  Serial.print("Message arrived on topic: ");
+  Serial.print(topic);
+  Serial.print(". Message: ");
+  Serial.println(newMsg);
+
+  if (String(topic) == topicToSub) {
+
+    // For debugging purposes, print it
+    Serial.print("Got new message!: ");
+    Serial.println(newMsg);
+
+    // Blink if we tell it to!
+    if (newMsg.equals("blink")){
+      blink();
+    // Or breathe!
+    } else if (newMsg.equals("breathe")) {
+      breathe();
+    }
+  }
+}
+
+
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  Serial.begin(9600);
+
+  // Connect to wifi
+  WiFi.begin(ssid, password);
+
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.print(".");
+  }
+
+  Serial.print("Connected to ");
+  Serial.println(ssid);
+  Serial.print("IP address: ");
+  Serial.println(WiFi.localIP());
+
+  // MQTT setup
+  mqttClient.setServer(mqttBroker, 1883);
+  mqttClient.setCallback(callback);
+
+}
+
+// the loop function runs over and over again forever
+void loop() {
+
+  // Check if we are still connected to the MQTT broker
+  if (!mqttClient.connected()) {
+    mqttConnect();
+  }  
+
+  // Let PubSubClient library do his magic
+  mqttClient.loop();
+
+  // Do not remove this line!
+  led.Update();
+}
 
 
 FIRST TASK: basically, make it blink!
@@ -401,6 +538,8 @@ void blink () {
 }
 ```
 
+**HAVE FUN WITH SOME LED!**
+
 
 
 #CnC
@@ -507,4 +646,4 @@ All the stories shared in The Confessional will then be translated into a VR exp
 **Reflections**
 I am frustrated and sad. I am frustrated because I dedicated a lot of effort and time during the four days of challenge to understand Atom and how the Rasperry Pi work and literally 10 minutes before the final presentation in didn't work anymore and I don't have even one video that showed that I actually succeeded in something. We were planning to bring the system at Mostra and Sonar festival but since that last minute it dropped out we decided to replace it with a back up plan.
 Overall, the week was very demanding. We are a small group, actually we're a pair ;) so we split the work in two. We managed to deal with that by working on different tasks but always sharing with each other what was going on and helping / supporting each other when needed. There's a very good work balance with Mari, we understand each other and we give each other honest opinions.
-As always, it was really nice to learn something new by doing it and this time we really pushed forward by doing something new that we were actually very scared about, and we succeeded even if we couldn't show the result. 
+As always, it was really nice to learn something new by doing it and this time we really pushed forward by doing something new that we were actually very scared about, and we succeeded even if we couldn't show the result.
