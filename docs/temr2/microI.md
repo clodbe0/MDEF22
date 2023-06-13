@@ -11,6 +11,8 @@ hide:
 
 #MICRO CHALLENGE I
 
+Repo: https://github.com/mdhelomme/MicroChallengeI
+
 We wanna help people to communicate their ideas, opinion and experience about drugs without using the voice, by creating a tool that could help them speak without speaking. Why? Because sometimes seems hard to talk and express opinions about specific topics, if it feels like they are being denied by society and there's no enough freedom to bring the conversation to the table, and especially to share a personal experience, positive or negative an habit or even an addiction related to something illegal and usually misread.
 
 ![](../images/micro/b.png)
